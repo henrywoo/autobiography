@@ -39,7 +39,7 @@
 │   └── 1.txt                 # 素材与 12 章提纲
 ├── chapterx/
 │   └── preface.md            # 序章 我
-├── chapter1-shan/ … chapter12-yun/
+├── chapter1-shan/ … chapter12-wu/
 │   └── chapterN.md           # 第 N 章
 ├── templates -> ../math4ai/shared/bubble/templates   # 可选，用于本地构建
 ├── scripts -> ../math4ai/shared/bubble/scripts        # 可选，用于本地构建
