@@ -1,15 +1,13 @@
 # Chapter 1: 山 {-}
 
-*书法美学是研究书法艺术美的本质、规律与欣赏方法的学科*
+*山村童年，泉水、螃蟹、石灰岩*
 
 > 山在那里。
 - Henry
 
-**Code Summary**
+**tp_image**
 
-- ![](img/shan.png)
-
-
+![](img/shan.png){width=100%}
 
 我出生在山里。
 
