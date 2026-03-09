@@ -1,4 +1,4 @@
-# Chapter 2: 路 {-}
+# Chapter 2: Road {-}
 
 *That dirt road may still be there. Only the people who walked it have scattered.*
 

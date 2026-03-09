@@ -1,4 +1,4 @@
-# Chapter 10: 谷 {-}
+# Chapter 10: Valley {-}
 
 *Uber, Autonomous Vehicles*
 

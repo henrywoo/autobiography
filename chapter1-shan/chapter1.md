@@ -1,4 +1,4 @@
-# Chapter 1: 山 {-}
+# Chapter 1: Mountain {-}
 
 *Spring, mud, stone*
 

@@ -1,4 +1,4 @@
-# Chapter 12: 无 {-}
+# Chapter 12: Emptiness {-}
 
 *No Wind or Rain, Impermanence, Emptiness*
 

@@ -1,6 +1,6 @@
-# Chapter 5: 歌 {-}
+# Chapter 5: Song {-}
 
-*Art Club, Calligraphy & Chorus*
+*Art Club, Calligraphy and Chorus*
 
 > One forgets many things. But some sounds stay for a lifetime.
 - 玄心

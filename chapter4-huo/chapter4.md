@@ -1,9 +1,9 @@
-# Chapter 4: 火 {-}
+# Chapter 4: Fire {-}
 
 *Arts Festival, Hai Di Lao*
 
 > Fire starts from something very small.
-- 玄心
+- XuanXin
 
 **tp_image**
 

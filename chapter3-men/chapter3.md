@@ -1,4 +1,4 @@
-# Chapter 3: 门 {-}
+# Chapter 3: Gate {-}
 
 *Failed the exam, then the dragon gate*
 

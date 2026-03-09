@@ -1,4 +1,4 @@
-# Chapter 6: 旗 {-}
+# Chapter 6: Flag {-}
 
 *National Day, Tiananmen*
 

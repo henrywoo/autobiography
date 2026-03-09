@@ -1,4 +1,4 @@
-# Chapter 9: 街 {-}
+# Chapter 9: Street {-}
 
 *Wall Street, SGX Trader*
 
@@ -36,7 +36,7 @@ I was responsible for execution across the whole Asia-Pacific, from New Zealand 
 
 Our systems were fast then.
 
-Sometimes the P&L on screen would move by tens of millions of dollars per second.
+Sometimes the P\&L on screen would move by tens of millions of dollars per second.
 
 At first when the numbers went up you felt a little excited; when they went down you went very quiet.
 

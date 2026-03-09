@@ -1,4 +1,4 @@
-# Chapter 11: 云 {-}
+# Chapter 11: Cloud {-}
 
 *From Uber to Oracle*
 

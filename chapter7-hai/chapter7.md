@@ -1,4 +1,4 @@
-# Chapter 7: 海 {-}
+# Chapter 7: Sea {-}
 
 *Going Abroad, Singapore, TOEFL GRE, MIT/SMA*
 
