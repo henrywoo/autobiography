@@ -1,8 +1,8 @@
 # Chapter 4: 火 {-}
 
-*艺体节、海底撈*
+*Arts Festival, Hai Di Lao*
 
-> 火从很小的地方开始。
+> Fire starts from something very small.
 - 玄心
 
 **tp_image**
@@ -11,179 +11,179 @@
 
 
 
-## 篝火
+## Bonfire
 
-进入高中后不久，
+Not long after I started high school,
 
-我发现同学之间差异蛮大的。
+I noticed how different my classmates were.
 
-城市里的同学很放得开。
+The kids from town were at ease.
 
-我从山里出来的，总有点拘谨。
+I had come from the mountains and always felt a little stiff.
 
-有些事情他们觉得很自然。
+Things that felt natural to them,
 
-我却不知道该把眼睛放在哪里。
+I didn’t know where to look.
 
-他们也慢慢发现了这一点。
+They noticed, after a while.
 
-于是常常拿我开玩笑。
+So they often teased me.
 
-那时候我脸很容易红。
+I blushed easily in those days.
 
-现在想起来，其实也没什么。
+Looking back, it was nothing.
 
-我学习很努力。
+I studied hard.
 
-作为班上第一名，
+As the top student in my class,
 
-压力太大了。
+the pressure was heavy.
 
-唱歌和画画都停了。
+I stopped singing and drawing.
 
-我这么喜欢唱歌的人，
+Someone who loved to sing,
 
-高中三年却没哼过一声。
+and for three years of high school I didn’t hum a single note.
 
-同寝室的人都不知道我会唱歌。
+My roommates didn’t know I could sing.
 
-学校每年都有艺体节。
+The school held an arts and sports festival every year.
 
-我有次想去唱歌。
+Once I thought about singing.
 
-后来想想，
+Then I thought,
 
-要考大学，
+I had to get into university,
 
-考大学又不考唱歌。
+and the exam didn’t test singing.
 
-还是没报。
+So I never signed up.
 
-那天晚上，广场上点起了一堆很大的篝火。
+That night, a big bonfire was lit in the square.
 
-火很高。
+The flames were high.
 
-同学们围着火堆唱歌、跳舞。
+Students sang and danced around the fire.
 
-有人在喊。
+Some were shouting.
 
-有人在笑。
+Some were laughing.
 
-火光一闪一闪地照在脸上。
+The firelight flickered on their faces.
 
-我站在人群外面，
+I stood outside the crowd,
 
-看着那堆火。
+watching the fire.
 
-看了一会儿。
+I watched for a while.
 
-然后悄悄回宿舍自习。
-
-
-## 火鍋
+Then I slipped back to the dorm to study.
 
 
-高一那年，半期期末，几次大考我都是全年级第一。
 
-学校是全市最好的，所以相当于也是全市第一。
+## Hotpot
 
-在我们那里，这叫状元。
+In my first year, at midterms and finals, I came first in the grade several times.
 
-每次大考完，想庆祝一下，就找一家小馆子吃点好的。
+Ours was the best school in the city, so that meant first in the whole city.
 
-有时候是爸妈或者亲戚带我去。
+Where I’m from, we call that zhuangyuan—top of the exams.
 
-有时候，玩得好的同学的爸妈也会把我一起带去。
+After each big exam we wanted to celebrate, so we’d find a small place to eat.
 
-我们去得最多的是一家火锅店。
+Sometimes my parents or relatives took me.
 
-名字叫海底捞。
+Sometimes the parents of close friends took me along.
+
+The place we went to most was a hotpot restaurant.
+
+Its name was Hai Di Lao.
 
 \
-店不大。
+The place was small.
 
-老板亲自招呼客人，很热情。
+The owner greeted the guests himself, very warm.
 
-刚坐下他就端茶倒水，问要不要加菜。
+As soon as we sat down he brought tea and water, asked if we wanted more dishes.
 
-吃完要走的时候，店员会站在门口送客。
+When we were leaving, the staff would see us out at the door.
 
-在那个小市里，这样的礼数并不多见。
+In that small city, that kind of courtesy wasn’t common.
 
-老板据说是四川拖拉機廠出来的，国有企业不景气，他下海做生意。
+People said the owner had come from the Sichuan Tractor Factory; state firms were struggling, so he had gone into business.
 
-他的老师还是我爸的同班同学。
+His teacher had been in the same class as my father.
 
-那时候我是状元。
+Back then I was the zhuangyuan.
 
-他是川拖技校毕业的。
+He had graduated from the tractor-factory technical school.
 
-在很多人眼里，他不算读书人。
+In many people’s eyes, he wasn’t “someone who had studied.”
 
-我们在店里吃火锅，他在店里忙前忙后。
+We ate hotpot in his shop; he was busy front and back.
 
-店不大。
+The place was small.
 
-味道却很好。
+The food was good.
 
-那时候我很少能吃到这么好吃的东西。
+In those days I rarely ate anything that good.
 
-我特别喜欢吃莲藕，还有牛肉。
+I especially liked the lotus root and the beef.
 
-这么多年过去，
+So many years later,
 
-那个味道好像还留在嘴边。
+that taste still seems to linger.
 
-那条街不长。
+The street wasn’t long.
 
-那几年，我们去过几次。
+Over those years we went a few times.
 
-老板记性很好，也很会看人。
+The owner had a good memory and a good eye for people.
 
-我想，也许他也记得我们。
+I think he probably remembered us too.
 
-有一次我进门，他笑着问：
+Once when I walked in he smiled and asked,
 
-“这次考得怎么样？”
+“How did the exams go this time?”
 
-我说还行。
+I said not bad.
 
-他说：
+He said,
 
-“那就多吃点。”
+“Then eat more.”
 
-考卷、排名、晚自习。
+Exams, rankings, evening study.
 
-还有考完之后的一顿火锅。
+And after each exam, a meal of hotpot.
 
-那几年，大概就是这样过来的。
+That’s more or less how those years went.
 
-后来考试越来越多，
+Later there were more and more exams,
 
-我的年级排名变来变去。
+and my rank in the grade went up and down.
 
-那家火锅店的生意却越来越好。
+That hotpot place did better and better.
 
-后来我上了大学，离开了那个小城。
+Later I went to university and left that small city.
 
-再后来出国，又回来，又出去。
+Then abroad, back again, abroad again.
 
-很多年没有再见过他。
+I didn’t see him for many years.
 
-我几乎已经忘记了。
+I had almost forgotten.
 
-再听到“海底捞”这个名字，是十多年以后。
+The next time I heard the name “Hai Di Lao” was more than ten years later.
 
-有人说，他的生意已经做得很大。
+Someone said his business had grown very big.
 
-后来我才知道，他已经成了最有名的生意人之一。
+Only then did I learn he had become one of the best-known entrepreneurs.
 
-同一个人。
+The same person.
 
-同一条街。
+The same street.
 
-同一家火锅店。
+The same hotpot restaurant.
 
-只是那条街，我已经很久没有再走过。
+Only I hadn’t walked that street in a long, long time.
 
 
