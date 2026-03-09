@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/gu.png){width=100%}
+![](img/gu.png){width=50%}
 
 
 ## 硅谷
