@@ -1,8 +1,8 @@
 # Chapter 12: 无 {-}
 
-*无风雨、无常、虚无*
+*No Wind or Rain, Impermanence, Emptiness*
 
-> 无，不是没有，是空出来。
+> 无 is not nothing—it is what is left empty.
 - 玄心
 
 **tp_image**
@@ -10,138 +10,138 @@
 ![](img/wu.png){width=70%}
 
 
-## 无常
+## Impermanence
 
-我写代码写了很多年。
+I have written code for many years.
 
-从高中的微机课开始。
+Since the computer class in high school.
 
-那时候代码是人写的。
+Back then code was written by people.
 
-一行一行。
+Line by line.
 
-有时候写到很晚。
+Sometimes I wrote very late.
 
-屏幕亮着，办公室很安静，只听见键盘的声音。
+The screen glowed; the office was quiet; only the sound of the keyboard.
 
-后来机器也开始写代码。
+Later machines began to write code too.
 
-一开始只是自动补全。
+At first it was only autocomplete.
 
-再后来，一整段程序都可以自动写出来。
+Then whole passages could be written automatically.
 
-再后来，整个项目都可以自动生成。
+Then whole projects could be generated.
 
-很多人开始问一个问题：
+Many people began to ask:
 
-程序员还会不会存在。
+Will programmers still exist.
 
-有一天我忽然觉得，也许我可以停一下。
+One day I suddenly felt that perhaps I could stop.
 
-不是因为失败。
+Not because of failure.
 
-只是因为路走到这里。
+Only because the road had led here.
 
-机器已经能写。
+Machines can already write.
 
-人不一定非要再写。
+People don’t necessarily have to keep writing.
 
-那段时间我开始做别的事情。
+In that period I began to do other things.
 
-读书。
+Read.
 
-写一点东西。
+Write a little.
 
-也去看一些很久没见的人。
+Go see people I hadn’t seen in a long time.
 
-有时候我会想起很早以前的一些画面。
+Sometimes I think of scenes from long ago.
 
-山里的泉水。
+The spring in the mountains.
 
-溪里的螃蟹。
+The crabs in the stream.
 
-那块后来被人搬走的石头。
+The stone that was later carried away.
 
-也会想起广州的一间办公室。
+I also think of an office in Guangzhou.
 
-墙上挂着一幅字：
+On the wall hung a piece of calligraphy:
 
-云层之上无风雨。
+Above the clouds there is no wind or rain.
 
-这几年母亲生病。
+In recent years my mother has been ill.
 
-人忽然会意识到一些以前没有认真想过的事情。
+You suddenly become aware of things you had never seriously considered.
 
-人会老。
+People grow old.
 
-时间会过去。
+Time passes.
 
-很多东西都会离开。
+Many things leave.
 
-有一天你会发现，青春不见了。
+One day you find that youth is gone.
 
-很多事情也不再重要。
+Many things no longer matter.
 
-那时候人会问一个问题：
+Then you ask:
 
-生命到底有什么意义。
+What is the meaning of life.
 
-我没有答案。
+I have no answer.
 
-也许很多人都没有答案。
+Perhaps many people have no answer.
 
-但我知道一件事。
+But I know one thing.
 
-从山里的泥。
+From the mud in the mountains.
 
-到电脑里的代码。
+To the code in the computer.
 
-从代码，
+From code.
 
-到数学和AI。
+To mathematics and AI.
 
-也许有一天，
+Perhaps one day
 
-人不必再写代码，
+people will no longer need to write code,
 
-甚至不必再工作。
+or even to work.
 
-这条路一直在变。
+This road has always been changing.
 
-也许有一天，
+Perhaps one day
 
-AI 接管了逻辑。
+AI will take over logic.
 
-人才有空，
+Then people will have room
 
-去完整地做回一个“有情众生”。
+to fully become again “sentient beings.”
 
-关掉显示器。
+Turn off the monitor.
 
-去给病榻上的母亲剥一个橘子。
+Peel an orange for your mother in her sickbed.
 
-或者陪她看一会儿窗外的天色。
+Or sit with her and watch the sky outside the window.
 
-这些事情，
+These things
 
-AI 永远算不出来。
+AI will never compute.
 
-最近我常读苏轼的《定风波》。
+Lately I often read Su Shi’s “Calming the Wind and Waves.”
 
-“莫听穿林打叶声。
+“Do not listen to the sound of rain beating through the forest.
 
-何妨吟啸且徐行。
+Why not chant and walk slowly.
 
-竹杖芒鞋轻胜马。
+A bamboo staff and straw sandals are lighter than a horse.
 
-谁怕？
+Who’s afraid?
 
-一蓑烟雨任平生。”
+A straw cloak and a lifetime of mist and rain.”
 
-午后的阳光，
+The afternoon sun,
 
-山里的雾气，
+the mist in the mountains—
 
-其实并没有什么分别。
+in the end there is no real difference.
 
-路就在脚下。
+The road is under your feet.

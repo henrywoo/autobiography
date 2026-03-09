@@ -1,8 +1,8 @@
 # Chapter 1: 山 {-}
 
-*泉、泥、石*
+*Spring, mud, stone*
 
-> 山在那里。(Because it’s there.)
+> The mountain is there. (Because it's there.)
 - George Mallory
 
 **tp_image**
@@ -10,254 +10,254 @@
 ![](img/shan.png){width=100%}
 
 
-## 泉
+## Spring
 
-我出生在山里。
+I was born in the mountains.
 
-村子不大，十几户人家。
+The village was small, a dozen or so households.
 
-大多是一个姓贺。
+Most of us shared the surname He.
 
-山在四周。
+The mountains were all around.
 
-天一亮就是山，天黑了也是山。
+At dawn there were mountains; at dark there were mountains.
 
-我不知道山那边是什么，也没想过要问。
+I didn’t know what was on the other side, and never thought to ask.
 
-世界就是眼前这些：
+The world was what was in front of me:
 
-屋后的坡、门前的沟、再远一点的田，和永远在的泉水。
+the slope behind the house, the ditch at the gate, the fields a little farther, and the spring that was always there.
 
-泉水从山缝里出来，据说几百年没断过。
+Water came out of a crack in the mountain; they said it hadn’t run dry in hundreds of years.
 
-土話里，那個泉水叫羊咪咪，就是蜻蜓泉的意思。
+In our local talk we called that spring Yangmimi—Dragonfly Spring.
 
-人們用竹管把水接到家里，我们家也有。
+People led the water home through bamboo pipes; we had it too.
 
-水接到灶边，接到缸里，
+It ran to the stove and into the vats.
 
-渴了趴下去喝一口，
+When you were thirsty you bent down and drank.
 
-凉，带一点石头和青苔的味道。
+Cool, with a taste of stone and moss.
 
-我到现在都记得那味道。
+I still remember that taste.
 
-泉水往下流，变成一条小溪，溪里有螃蟹。
+The spring ran down and became a stream; there were crabs in the stream.
 
-我蹲在溪边，把石头翻过来。
+I squatted by the water and turned over the stones.
 
-石头底下有时候会躲着螃蟹。
+Sometimes a crab was hiding underneath.
 
-我一伸手，就把它抓住。
+I reached in and caught it.
 
-都是些小螃蟹，大的我不敢抓。
+They were small crabs; the big ones I didn’t dare touch.
 
-抓上来，放在手心，它横着爬。
+I’d hold one in my palm and it would scuttle sideways.
 
-我不吃它，玩一会儿就放回去。
+I didn’t eat them; I played a while and put them back.
 
-溪水清得见底。
+The water was so clear you could see the bottom.
 
-几百年了，水没断，螃蟹也没断。
+For hundreds of years the water hadn’t stopped, and neither had the crabs.
 
-溪水流下去的地方，有一块大石头。
+Where the stream ran on, there was a big rock.
 
-不是普通的石头，是石灰岩。
+Not an ordinary rock—limestone.
 
-白里带青，一层一层的。
+Pale with a tint of blue, layer upon layer.
 
-像一排书页立在那里。
+Like a row of book pages standing there.
 
-老人说，这块石头不是从山上掉下来的。
+The old people said that rock hadn’t fallen from the mountain.
 
-是水一点一点滴出来的。
+The water had dripped it out, bit by bit.
 
-滴了很多很多年。
+For many, many years.
 
-我常去那儿坐，脚泡在水里，背靠着石头。
+I often went and sat there, feet in the water, back against the rock.
 
-太阳晒在石头上，石头是暖的；水从脚背上过去，是凉的。
+The sun warmed the rock; the water passing over my feet was cool.
 
-那时候我还不知道该怎么说。
+I didn’t know how to say it then.
 
-只是觉得在那儿待着，很安心。
+I only knew it felt good to be there.
 
-## 泥
+## Mud
 
-我很小的时候，就喜欢玩泥。
+When I was very small I liked to play with mud.
 
-不是所有的泥都好玩。
+Not every kind of mud was good.
 
-有些太干，一捏就裂开。
+Some was too dry and cracked when you squeezed it.
 
-有些太沙，怎么压也粘不住。
+Some was too sandy and wouldn’t hold together.
 
-但山坡下面有一块地方的土不一样。
+But there was one patch of earth below the slope that was different.
 
-那里的泥很细，很软，用手一揉就能变成一团。
+That mud was fine and soft; you could knead it into a ball.
 
-我第一次碰到那种泥，是在一个夏天的下午。
+The first time I touched it was on a summer afternoon.
 
-那天太阳很大，山上的草已经有点发黄。
+The sun was strong and the grass on the hill had started to yellow.
 
-我一个人在山坡上乱跑，
+I was running around the slope by myself,
 
-脚踩在松软的土上。
+feet on the loose soil.
 
-忽然我发现有一小块泥和别的地方不一样。
+Suddenly I noticed a small patch of mud that wasn’t like the rest.
 
-我抓了一把。
+I grabbed a handful.
 
-泥很细，像面粉一样。
+It was fine, like flour.
 
-我把那团泥带回家。
+I took that lump of mud home.
 
-坐在门口慢慢捏。
+Sat in the doorway and slowly shaped it.
 
-很多年以后，我仍然记得那种泥在手里的感觉。
+Years later I still remember how it felt in my hands.
 
-柔软。凉。慢慢变形。
+Soft. Cool. Slowly changing shape.
 
-那时候我并不知道，这叫雕塑。
+I didn’t know then that this was sculpture.
 
-我只觉得，把泥变成形状，是一件很神奇的事情。
+I only felt that turning mud into shapes was something magical.
 
 \
-我们家的房子是泥墙做的。
+Our house had walls of mud.
 
-墙很厚，表面有一点点粗糙。
+The walls were thick, the surface a little rough.
 
-我不知道为什么，忽然很想在上面留下点什么。
+I don’t know why, but I suddenly wanted to leave something on them.
 
-一开始只是用手指随便划出几道线。
+At first I just drew a few lines with my finger.
 
-后来慢慢开始用手指在泥墙上抹出形状。
+Then I began to shape the mud wall with my hands.
 
-鼻子。眼睛。耳朵。
+Nose. Eyes. Ears.
 
-泥墙上慢慢出现了一张模糊的脸。
+A faint face slowly appeared on the wall.
 
-没有人教过我。
+No one had taught me.
 
-只是觉得很好玩。
-
-\
-有时候我也会在墙上刻字。
-
-用树枝，或者用铁钉。
-
-写自己的名字。
-
-也写课本里学来的字。
-
-刻完以后，我会站远一点看一会儿。
-
-有些字歪歪扭扭，但我很喜欢。
-
-有一次我刻了“少林寺”三个字。
-
-就像电影片头那样。
-
-我高兴了好几天。
-
-
-## 石
-
-蜻蜓泉下面其实不只有那一块大石头。
-
-水底还有很多小石灰石。
-
-白白的，边角被水磨得很圆。
-
-有一次我捡到一块石头，上面有一圈一圈的纹路。
-
-我觉得那一定是化石。
-
-我拿着它一路跑回家，冲进院子里，跟我爸说：
-
-“我发现化石了。”
-
-我爸那时候正和几个朋友在打麻将。
-
-他们看了一眼，都笑了。
-
-有人说：
-
-“要真是化石，你們家就发财了。”
-
-我爸把石头拿在手里掂了掂，说：
-
-“石灰石而已。”
-
-“扔了算了。”
-
-我有点生气。
-
-但我没扔。
-
-我把它收了起来。
-
-在我看来，那块石头比化石还珍贵呢。
+It just felt like fun.
 
 \
-然后路修进来了。
+Sometimes I carved characters into the wall too.
 
-修路是好事，大家都这么说。
+With a branch or a nail.
 
-路通了，去镇上方便了，东西也能运进来。
+I wrote my name.
 
-我们不知道，路通了，有些东西也会被运走。
+And characters I’d learned from my books.
 
-有一天半夜，有人开车进村。
+When I was done I’d step back and look.
 
-我们早就睡了。
+Some of the characters were crooked, but I liked them.
 
-第二天起来，溪边那块石灰岩不见了。
+Once I carved the three characters for “Shaolin Temple.”
 
-那么大一块石头，没了。
+Like in the movie titles.
 
-只剩一个坑，和几道车轮印。
+I was happy for days.
 
-谁搬的？不知道。
 
-搬去哪儿？也不知道。
+## Stone
 
-村里人说了几天，也就过去了。
+Below Dragonfly Spring there was more than that one big rock.
 
-石头嘛，没了就没了。
+There were many small limestone pieces in the water.
 
-很久以后，有一个去城里办事的人回来说，他在城里的一个院子里看见一块石头。
+White, their edges rounded by the flow.
 
-白里带青，一层一层的，像一排立着的书页。
+Once I picked up a stone with ring after ring of pattern.
 
-他说，那就是我们溪边那块。
+I was sure it had to be a fossil.
 
-我们的石头，成了别人园子里的假山。
+I ran all the way home with it, burst into the yard, and said to my father,
 
-那天晚上我做了一个梦。
+“I found a fossil.”
 
-梦见溪里没有水了，螃蟹也不见了，墙上的泥都干了，一碰就碎。
+My father was playing mahjong with some friends.
 
-我醒来，心里空了一块。
+They took a look and laughed.
 
-那感觉就像母亲被偷走了。
+Someone said,
 
-山，水，那块石头，还有那些几百年一直在那里的东西。
+“If it were really a fossil, your family would be rich.”
 
-它们本来在那儿。
+My father weighed the stone in his hand and said,
 
-忽然有一天，不再属于我们。
+“It’s just limestone.”
 
-山还在。
+“Throw it away.”
 
-泉水还在流，螃蟹还在溪里，泥墙也还在。
+I was a little angry.
 
-但有些东西已经不一样了。
+But I didn’t throw it away.
 
-那是我第一次知道，
+I kept it.
 
-世界比村子大。
+To me that stone was more precious than any fossil.
 
-而且世界会把手伸进来，
+\
+Then the road was built in.
 
-拿走它想要的东西。
+A road was a good thing, everyone said.
+
+With the road, the town was easier to reach and things could be brought in.
+
+We didn’t know that with the road, some things would be taken away.
+
+One night someone drove into the village.
+
+We were already asleep.
+
+The next morning the limestone rock by the stream was gone.
+
+Such a big rock—gone.
+
+Only a hollow and tire tracks.
+
+Who had taken it? No one knew.
+
+Where had it gone? No one knew.
+
+The village talked about it for a few days, then let it go.
+
+A rock was a rock; gone was gone.
+
+A long time later someone who had been to the city came back and said he had seen a rock in a courtyard there.
+
+Pale with a tint of blue, layer upon layer, like a row of standing book pages.
+
+He said it was the one from our stream.
+
+Our rock had become someone else’s garden stone.
+
+That night I had a dream.
+
+The stream had no water, the crabs were gone, the mud on the walls had dried and crumbled at a touch.
+
+I woke with an emptiness in my chest.
+
+It felt like something had been stolen.
+
+The mountain, the water, that rock, and all that had been there for hundreds of years.
+
+They had been there.
+
+Then one day they were no longer ours.
+
+The mountain is still there.
+
+The spring still runs, the crabs are still in the stream, the mud walls still stand.
+
+But something had changed.
+
+That was the first time I knew
+
+the world was bigger than the village.
+
+And that the world would reach in
+
+and take what it wanted.

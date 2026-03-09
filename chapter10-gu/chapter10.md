@@ -1,8 +1,8 @@
 # Chapter 10: 谷 {-}
 
-*优步、无人车*
+*Uber, Autonomous Vehicles*
 
-> 谷里没有谷子，只有可能。
+> The valley holds no grain—only possibility.
 - 玄心
 
 **tp_image**
@@ -10,245 +10,244 @@
 ![](img/gu.png){width=50%}
 
 
-## 硅谷
+## Silicon Valley
 
-后来我去了美国。
+Later I went to the United States.
 
-硅谷。
+Silicon Valley.
 
-刚到的时候，我在谷歌的广告部门工作。
+When I first arrived I worked in Google’s ads division.
 
-白天上班。
+Work by day.
 
-晚上上课。
+Class by night.
 
-那几年我在修新加坡国立大学的金融工程学位。
+In those years I was completing a financial engineering degree from the National University of Singapore.
 
-老师在新加坡。
+The faculty were in Singapore.
 
-我在加州。
+I was in California.
 
-很多课是晚上在线上课。
+Many courses were online at night.
 
-白天写代码。
+Code by day.
 
-晚上做作业。
+Homework by night.
 
-有时候写到很晚。
+Sometimes I wrote very late.
 
-硅谷的办公室很亮。
+Silicon Valley offices were bright.
 
-玻璃很多。
+Lots of glass.
 
-每个人桌上都有电脑。
+Everyone had a computer on their desk.
 
-有的人有两三块屏幕。
+Some had two or three screens.
 
-很多人穿T恤、牛仔裤，背着双肩包。
+Many people wore T-shirts, jeans, and backpacks.
 
-隔壁有个七十多岁的老头。
+Next to me was a guy in his seventies.
 
-脾气和他写的代码一样火爆。
+His temper was as fierce as his code.
 
-但我喜欢他的狗。
+But I liked his dog.
 
-他常常带狗来办公室上班。
+He often brought the dog to the office.
 
-也有些工程师看起来像高中生。
+Some engineers looked like high school students.
 
-可他们讨论的事情却很大。
+But what they discussed was huge.
 
-广告系统每天处理海量的数据。
+The ads system processed massive data every day.
 
-点击。
+Clicks.
 
-竞价。
+Bidding.
 
-排序。
+Ranking.
 
-模型。
+Models.
 
-很多决定在几毫秒里完成。
+Many decisions in milliseconds.
 
-有时候我会觉得，
+Sometimes I felt
 
-这些系统像一种新的工业机器。
+these systems were like a new kind of industrial machine.
 
-不是钢铁做的机器。
+Not made of steel.
 
-而是代码做的机器。
+But of code.
 
-后来我去了另一家公司。
+Later I went to another company.
 
-奥斯卡医疗。
+Oscar Health.
 
-那是Joshua Kushner创办的公司。
+Founded by Joshua Kushner.
 
-他不是很有名其实。
+He wasn’t that famous actually.
 
-我起初只知道他的超模女友。
+At first I only knew his supermodel girlfriend.
 
-他很爱他公司。
+He loved his company.
 
-有次公司发生火灾。
+Once there was a fire.
 
-大家往下冲的时候。
+When everyone was rushing down
 
-我看到他还在上面收拾东西。
+I saw him still upstairs gathering his things.
 
-我说快走了。
+I said let’s go.
 
-他说你先下去吧。
+He said you go first.
 
-结果我们下楼之后很久他才在烟里面出来。
+We had been downstairs a long time before he finally emerged through the smoke.
 
-公司做医疗保险，
+The company did health insurance,
 
-但很多工程师其实在做数据和算法。
+but many engineers were really working on data and algorithms.
 
-也是在那里，
+It was also there
 
-我第一次把AI运用在公司项目里。
+that I first used AI on a company project.
 
-那时候机器学习已经开始进入工程系统。
+Machine learning was already entering engineering systems then.
 
-但还没有像后来那样，
+But it hadn’t yet become the center of the whole industry
 
-成为整个行业的中心。
+the way it did later.
 
-公司安排我去谷歌培训。
+The company sent me to Google for training.
 
-整整一周。
+A full week.
 
-机器学习。
+Machine learning.
 
-神经网络。
+Neural networks.
 
-模型训练。
+Model training.
 
-白天在教室听课。
+By day I sat in class.
 
-晚上回去写代码练习。
+By night I went back and wrote code to practice.
 
-很多东西我以前在数学和统计里见过。
+A lot of it I had seen in math and statistics before.
 
-但当它们真的在系统里运行时，
+But when it really ran in a system
 
-感觉完全不一样。
+it felt completely different.
 
-数据变成模型。
+Data became models.
 
-模型变成系统。
+Models became systems.
 
-系统开始自己学习。
+Systems began to learn on their own.
 
-那时候我隐约感觉到，
+I had a vague sense then
 
-这可能会改变很多行业。
+that this might change many industries.
 
-与此同时，
+At the same time
 
-硅谷还有一家公司忽然变得非常热门。
+one company in Silicon Valley suddenly became very hot.
 
-优步。
+Uber.
 
-一开始很多人只把它当成一个打车软件。
+At first many people only saw it as a ride-hailing app.
 
-但很快大家发现，
+But soon everyone saw
 
-它想做的事情远不止打车。
+it wanted to do far more than that.
 
-后来我去了优步。
+Later I joined Uber.
 
-办公室里挤满工程师。
+The office was packed with engineers.
 
-很多人很年轻。
+Many very young.
 
-很多斯坦福、哈佛毕业生。
+Many Stanford and Harvard graduates.
 
-也有各种奥赛奖牌得主。
+Also various Olympiad medalists.
 
-隔壁有个香港亚洲小姐选美冠军。
+Next to me was a Miss Asia pageant winner from Hong Kong.
 
-写的代码和她一样漂亮。
+Her code was as beautiful as she was.
 
-但我喜欢她的宝可梦玩具。
+But I liked her Pokémon toys.
 
-她常常带在办公室把玩她的那些小玩意。
+She often brought them to the office to play with.
 
-我的桌子上是电脑。
+On my desk were a computer.
 
-地图。
+Maps.
 
-传感器。
+Sensors.
 
-我们谈论最多的一件事是：
+The thing we talked about most was:
 
-自动驾驶。
+autonomous driving.
 
-车可以自己开。
+The car could drive itself.
 
-我们做算法。
+We built algorithms.
 
-做传感器融合。
+Sensor fusion.
 
-做路测。
+Road testing.
 
-有时候一群人站在路边，
+Sometimes a group of us stood by the roadside
 
-看着一辆测试车慢慢开过去。
+watching a test car drive slowly past.
 
-车里没有人碰方向盘。
+No one in the car was touching the wheel.
 
-那一刻你会觉得，
+In that moment you felt
 
-有些事情真的在改变。
+that some things were really changing.
 
-硅谷的节奏很快。
+Silicon Valley’s rhythm was fast.
 
-公司可以在几年之内长大。
+A company could grow up in a few years.
 
-资金一轮一轮进来。
+Funding came in round after round.
 
-工程师一批一批加入。
+Engineers joined in wave after wave.
 
-很多人都觉得，
+Many people felt
 
-自己正在参与某种历史。
+they were taking part in some kind of history.
 
-后来优步上市了。
+Later Uber went public.
 
-无人车也真的上了路。
+Autonomous vehicles really took to the road.
 
-公司经历过很多起落。
+The company went through many ups and downs.
 
-但我一直记得那段时间。
+But I always remember that period.
 
-你站在一个技术浪潮的正中间。
+You stood in the middle of a technology wave.
 
-很多事情还没有发生。
+Many things had not yet happened.
 
-但空气里已经有那种味道。
+But the air already had that smell.
 
-谷就是这样。
+The valley is like that.
 
-世界各地的人来到这里。
+People from around the world come here.
 
-写代码。
+To write code.
 
-或投资。
+Or invest.
 
-或创业。
+Or start companies.
 
-然后把这些技术
+Then take these technologies
 
-带到世界的别的地方。
+to other parts of the world.
 
-你不需要想做什么大事情，
+You don’t need to plan to do something huge.
 
-有些浪潮来的时候，
+When some waves come
 
-你只是
+you are just
 
-刚好站在里面。
-
+standing in them.

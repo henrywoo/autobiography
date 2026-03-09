@@ -1,8 +1,8 @@
 # Chapter 7: 海 {-}
 
-*出国、新加坡、托福 GRE、MIT/SMA*
+*Going Abroad, Singapore, TOEFL GRE, MIT/SMA*
 
-> 海的那边，是另一种人生。
+> On the other side of the sea is another kind of life.
 - 玄心
 
 **tp_image**
@@ -10,376 +10,375 @@
 ![](img/hai.png){width=50%}
 
 
-## 代考
+## Proxy Testing
 
-我第一次真正接触大海，是大学毕业以后。
+The first time I really encountered the sea was after I graduated from university.
 
-那之前，我一直在北京读书。
+Before that I had been studying in Beijing.
 
-学校在国内算是很好的工科大学。
+The school was one of the country’s top engineering universities.
 
-很多人以为，能考进这样的学校，日子就会很顺。
+Many people thought that getting into such a school meant smooth sailing.
 
-其实不一定。
-
-\
-我读书的时候，家里没有什么钱。
-
-北京生活不便宜。房租、吃饭、书本，每一件事情都要算。
-
-寒暑假的时候，我常常把回家的车费省下来。别人回家，我就留在北京打工。这样可以帮家里省下一点钱。
-
-我接过很多零碎的工作。
-
-家教，写字，画画，帮出版社设计封面。
-
-这些事情赚不了太多，但总能攒一点零花钱。
-
-后来我发现，真正花钱的事情不是生活，而是出国。
-
-托福、GRE、申请费、培养费还有机票。
-
-把所有钱加在一起，还是差一大截。
+Not necessarily.
 
 \
-于是我开始帮人考试。
+When I was a student, my family had very little money.
 
-雅思、托福、GRE、GMAT。
+Life in Beijing wasn’t cheap. Rent, food, books—everything had to be counted.
 
-那时候，北京有一个很灰色的地下产业。
+During winter and summer breaks I often saved the train fare home. When others went home, I stayed in Beijing to work. That way I could save the family a little money.
 
-很多人想出国，但英语不够好，就会找人替考。
+I took on many odd jobs.
 
-只要有人能把分数考出来，就有人愿意付钱。
+Tutoring, calligraphy, painting, designing covers for publishers.
 
-\
-我每天会去新东方附近转。
+None of it paid much, but it added up to a little pocket money.
 
-不是去上课，而是去贴广告。
+Later I found that what really cost money wasn’t daily life but going abroad.
 
-一张一张小纸条，上面写几行字，再留一个电话。
+TOEFL, GRE, application fees, training fees, and airfare.
 
-贴在电线杆、公告栏、地铁口附近的墙上。
-
-有人看见，就会打电话过来。
-
-电话通常很简短。
-
-对方会问：
-
-“你能考多少分？”
-
-我说，大概多少多少。
-
-对托福这种考试，我甚至可以控制分数。
-
-想考多少，就考多少。
-
-然后约地方见面。
-
-有的人很紧张，一见面就反复确认：
-
-“你真的能考吗？”
-
-我说，可以。
-
-只要准备好准考证。
-
-他们有自己的办法。
-
-有人能用我的照片做证件，有人能找关系进考场。
-
-具体怎么操作，我不太问。
-
-也不太想知道。
-
-我只做一件事。
-
-进去考试。
-
-把分数考出来。
+Add it all up and I was still far short.
 
 \
-考试的时候，我其实很平静。
+So I started taking tests for others.
 
-电脑屏幕亮着，一题一题往下做。
+IELTS, TOEFL, GRE, GMAT.
 
-听力、阅读、写作。
+In those days Beijing had a gray underground industry.
 
-对我来说都不算难。
+Many people wanted to go abroad but their English wasn’t good enough, so they hired proxies.
 
-时间到的时候，系统自动提交。
-
-走出考场的时候，外面通常有人在等。
-
-他们会先问一句：
-
-“怎么样？”
-
-我说，没问题。
-
-然后他们把钱给我。
-
-这些钱刚好够我生活和交申請費。
-
-房租、饭钱、书本。
-
-有时候我还会去别的城市替考。
-
-因为托福有不同的考点。
-
-他们对我很好。
-
-有的人甚至把我当成救命恩人。
-
-我其实有点喜欢这种感觉。
+If you could get the score, someone would pay.
 
 \
-那几年，北京的冬天很长。
+I would go around near New Oriental every day.
 
-有一次我去人民大学旁边的GRE考点。
+Not to take classes—to put up ads.
 
-那天出了事。
+Small slips of paper with a few lines and a phone number.
 
-最近比较严。
+On utility poles, bulletin boards, walls near the subway.
 
-我本来不太想去。
+If someone saw, they would call.
 
-他说出了事他是我的坚强后台。
+The calls were usually brief.
 
-国外的考试，我是在帮助咱们自己人。
+They would ask:
 
-我想了想感觉也有道理。
+“What score can you get?”
 
-他买通了一个监考。
+I’d say, roughly such and such.
 
-但考试进行到一半的时候，突然有人下来检查。
+For TOEFL I could even control the score.
 
-替考被发现了。
+Whatever they wanted, I could deliver.
 
-我被带到一栋很高的楼里。
+Then we’d set a place to meet.
 
-一个主管坐在桌子后面，让我写检讨。
+Some were very nervous, double-checking as soon as we met:
 
-我当时有点不服气。
+“You can really do it?”
 
-就说，我后台比较硬。
+I said, yes.
 
-教育部公安局都有关系。
+As long as the admission ticket was ready.
 
-他看了我一眼，说：
+They had their own methods.
 
-“陳致立我都不怕。”
+Some could make ID with my photo; some had connections to get into the test center.
 
-我只好低头写检讨。
+I didn’t ask how.
 
-写完以后，他忽然停住了。
+Didn’t really want to know.
 
-他看着那张纸。
+I only did one thing.
 
-然后抬头看我。
+Go in and take the test.
 
-他说：
+Get the score.
 
-“你的字写得真好。”
+\
+When I took the tests I was actually calm.
 
-那一刻气氛突然变了。
+The screen glowed; I worked through the questions.
 
-他对我说：
+Listening, reading, writing.
 
-“你这么优秀的人，没必要做这个。”
+None of it was very hard for me.
 
-我说：
+When time was up, the system submitted automatically.
 
-“我只是没钱。”
+When I walked out, someone was usually waiting.
 
-后来我的“后台”也来了。
+They would ask:
 
-他和那个主管甚至发生了一点肢体冲突。
+“How did it go?”
 
-最后主管摆摆手，让我先走。
+I’d say, no problem.
+
+Then they gave me the money.
+
+That money was just enough for my living expenses and application fees.
+
+Rent, food, books.
+
+Sometimes I went to other cities to take tests.
+
+Because TOEFL had different test centers.
+
+They treated me well.
+
+Some even acted as if I had saved their lives.
+
+I rather liked that feeling.
+
+\
+Those years, Beijing’s winters were long.
+
+Once I went to a GRE test center near Renmin University.
+
+Something went wrong that day.
+
+Things had gotten stricter lately.
+
+I hadn’t really wanted to go.
+
+He said if anything happened he was my solid backer.
+
+With foreign exams I was helping our own people.
+
+I thought about it and it seemed to make sense.
+
+He had bribed a proctor.
+
+But halfway through the exam someone came down to inspect.
+
+The proxy was discovered.
+
+I was taken to a very tall building.
+
+A supervisor sat behind a desk and had me write a self-criticism.
+
+I was a bit defiant.
+
+I said my backer was well connected.
+
+Ministry of Education, Public Security—I had contacts.
+
+He looked at me and said:
+
+“I’m not even afraid of Chen Zhili.”
+
+I had to bow my head and write the self-criticism.
+
+When I finished he suddenly stopped.
+
+He looked at the paper.
+
+Then looked up at me.
+
+He said:
+
+“Your handwriting is really good.”
+
+The mood shifted in an instant.
+
+He said to me:
+
+“Someone as capable as you doesn’t need to do this.”
+
+I said:
+
+“I just had no money.”
+
+Later my “backer” showed up too.
+
+He and the supervisor even got into a bit of a scuffle.
+
+In the end the supervisor waved his hand and let me go first.
 
 
 \
-那次我走得很不开心。
+I left that day in a bad mood.
 
-因为我只拿到了一半的钱。
+Because I only got half the pay.
 
-那天风很冷。
+The wind was cold.
 
-我把手插在口袋里，慢慢往宿舍走。
+I walked slowly back to the dorm with my hands in my pockets.
 
-路灯一盏一盏亮着。
+Street lamps came on one by one.
 
-远处是教学楼的窗子。
+In the distance were the windows of the teaching building.
 
-我觉得，世界其实很奇怪。
+I thought the world was strange.
 
-有的人在努力读书。
+Some people were studying hard.
 
-有的人在努力找人替自己考试。
+Some were busy finding someone to take their test.
 
-而我站在两者之间。
+I stood between the two.
 
-我只是把题做完。
+I just did the test.
 
-仅此而已。
-
-\
-那几年，我几乎没有谈恋爱。
-
-不是不想。
-
-是没钱。
-
-学生时代谈恋爱其实也要花钱。
-
-吃饭、电影、公交地鐵。
-
-这些事情对别人来说很普通，对我来说却要算很久。
-
-后来我稍微有一点钱了。
-
-我發現已經沒有人在原地等着我了。
-
-有些事情错过以后，就真的不会再回来。
-
-
-## 留学
-
-大学一毕业，我就离开了北京。
-
-论文答辩结束的那天晚上，飞机从夜里起飞。
-
-全班同学送我到学校北门。
-
-我是第一个离开这个大家庭的人。
-
-我在飞机上哭了。
-
-城市的灯一点一点变小。
-
-像撒在地上的流金。
-
-最后变成一片模糊的光。
-
-再过一会儿，什么也看不见了。
-
-只剩下机翼外面一层薄薄的云。
+That was all.
 
 \
-我第一次真正跨过海。
+Those years I hardly had a relationship.
 
-目的地是新加坡然後美國。
+Not that I didn’t want to.
 
-我去那边读的是新加坡和MIT合作的项目。
+I had no money.
 
-SMA。
+Dating as a student cost money too.
 
-飞机降落的时候，空气里带着一种潮湿的味道。
+Meals, movies, bus and subway.
 
-学校安排了一个本科的师兄来接我。
+For others these were ordinary; for me each had to be calculated.
 
-我们在金文泰的一家餐馆吃了第一顿饭。
+Later when I had a little money.
 
-那时候我对新加坡的印象很简单。
+I found no one was still there waiting for me.
 
-热。
+Some things, once missed, never come back.
 
-干净。
 
-很多高楼。
+## Study Abroad
 
-很多老师是从MIT过来的。
+I left Beijing as soon as I graduated.
 
-我們也飛去MIT上課。
+The night after my thesis defense, the plane took off in the dark.
 
-在波士頓着陸的時候，我感覺不太真實。
+The whole class saw me off at the north gate.
 
-MIT的授課風格完全給以前我經歷的不一样。
+I was the first to leave that big family.
 
-教室里经常能听到各种口音的英语。
+I cried on the plane.
 
-黑板上写满公式。
+The city’s lights grew smaller and smaller.
 
-那时候，我第一次真正接触到世界级的数学。
+Like gold scattered on the ground.
+
+Until they blurred into one glow.
+
+A little later, nothing was visible.
+
+Only a thin layer of cloud outside the wing.
 
 \
-其中有一门课，是Gilbert Strang的。
+The first time I really crossed the sea.
 
-第一次见到他的时候，我有点紧张。
+The destination was Singapore, then the United States.
 
-我知道他在小波分析上很厲害，
+I was going for a joint program between Singapore and MIT.
 
-但是他給我們上的是線性代數。
+SMA.
 
-很多公式在本科學過，但是他講出來，一切都變得不一樣了。
+When the plane landed, the air had a damp smell.
 
-他采用了完全不同的角度。
+The school had arranged for an older undergraduate to meet me.
 
-我也喜歡他講課的風格。
+We had our first meal at a restaurant in Clementi.
 
-他讲话不快。
+My impression of Singapore then was simple.
 
-声音很稳。
+Hot.
 
-讲到某一步推导的时候，他会停下来。
+Clean.
 
-然后问一句：
+Many tall buildings.
+
+Many of the faculty came from MIT.
+
+We also flew to MIT for classes.
+
+When we landed in Boston it didn’t feel real.
+
+MIT’s teaching style was nothing like what I had known.
+
+In the classroom you heard English in every accent.
+
+The blackboard was full of equations.
+
+For the first time I was really touching world-class mathematics.
+
+\
+One of the courses was Gilbert Strang’s.
+
+The first time I saw him I was nervous.
+
+I knew he was formidable in wavelet analysis,
+
+but he was teaching us linear algebra.
+
+Many of the formulas I had seen as an undergraduate, but when he presented them everything changed.
+
+He took a completely different angle.
+
+I liked his teaching style too.
+
+He didn’t speak fast.
+
+His voice was steady.
+
+When he reached a step in the derivation he would stop.
+
+Then ask:
 
 “Why?”
 
-不是为了难住谁。
+Not to stump anyone.
 
-只是让你想一想。
+Just to make you think.
 
-这一步为什么成立。
+Why does this step hold.
 
-我坐在教室里。
+I sat in the classroom.
 
-慢慢跟着他的思路走。
+Slowly following his train of thought.
 
-那一刻我忽然明白。
+In that moment I suddenly understood.
 
-数学不是一堆公式。
+Mathematics was not a pile of formulas.
 
-而是一种语言。
+It was a language.
 
-它可以把世界说得非常清楚。
+It could describe the world with great clarity.
 
-但那时候我还不知道。
+But I didn’t know then.
 
-这种语言，后来会带我进入另一张更大的网。
+That this language would later draw me into a larger net.
 
-代码、系统、网络。
+Code, systems, networks.
 
-那張網，在海的那邊。
+That net was on the other side of the sea.
 
-海就是这样。
+The sea is like that.
 
-你渡过去的时候，并不知道对岸是什么。
+When you cross, you don’t know what’s on the far shore.
 
-你只是知道，如果不走这一段水路。
+You only know that if you don’t make this crossing,
 
-世界就永远只有眼前这么大。
+the world will never be bigger than what’s in front of you.
 
-北京。
+Beijing.
 
-托福。
+TOEFL.
 
-GRE。
+GRE.
 
-新加坡。
+Singapore.
 
-SMA。
+SMA.
 
-这些名字现在看起来只是几个词。
+These names now look like just a few words.
 
-但在当年，它们连在一起。
+But in those days they linked together.
 
-就是我青春里那条渡海的船。
+Into the boat that carried my youth across the sea.
 
-船一旦离岸。
+Once the boat leaves shore.
 
-你就不会再是原来那个人了。
-
+You are no longer the person you were.

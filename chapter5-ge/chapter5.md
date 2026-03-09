@@ -1,424 +1,424 @@
 # Chapter 5: 歌 {-}
 
-*美术社、书法与合唱团*
+*Art Club, Calligraphy & Chorus*
 
-> 人会忘记很多事。但有些声音，会留一辈子。
+> One forgets many things. But some sounds stay for a lifetime.
 - 玄心
 
 **tp_image**
 
 ![](img/ge.png){width=70%}
 
-## 大学
+## University
 
-高中三年很快结束了。
+The three years of high school ended quickly.
 
-我考进了北京的一个有名的工科大学。
+I was admitted to a well-known engineering university in Beijing.
 
-去北京的火车上，有人给我让座。
+On the train to Beijing, someone offered me their seat.
 
-说来了个名校大学生。
+Said a top-school student had arrived.
 
-我谢绝了他的好意。
+I declined the kindness.
 
-毕竟那车要做十几个小时。
+That train ride was over ten hours, after all.
 
-这个专业在四川招三个人，我就是其中一个。
+The program took three students from Sichuan; I was one of them.
 
-算是一种缘分。
-
-\
-大学里，我学习依然刻苦。
-
-我都不出去玩。
-
-直到今天，我都还没去过长城。
-
-但我开始慢慢放开自己。
-
-生活不只有课本。
-
-我还写字。
-
-画画。
-
-弹吉它。
-
-还有唱歌。
-
-周末甚至会去人民大学，
-
-看电影喝啤酒，
-
-交些朋友，
-
-吹吹自己不懂的经济学和社会学。
-
-那时候我觉得。
-
-一个人只要还能做这些事。
-
-日子就不算太坏。
+A kind of fate.
 
 \
-我开始在一些社团打杂。
+At university I still studied hard.
 
-有天，有个叫卢庚戌[^ge-lu]的人找到了社团，
+I hardly went out.
 
-说要在学校开演唱会。
+To this day I have never been to the Great Wall.
 
-我被派去给他搬东西。
+But I began to open up.
 
-他就站在楼下。
+Life was not only textbooks.
 
-戴一顶很大的帽子。
+I wrote characters.
 
-旁边放着一叠蝴蝶花海报。
+Drew.
 
-我蹲在地上帮他搬桌子和音箱。
+Played the guitar.
 
-那时候我心想——
+And sang.
 
-原来开演唱会的人，
+On weekends I would even go to Renmin University,
 
-看起来也和普通人差不多。
+watch films and drink beer,
 
-\
-后来有个名字很怪的组合叫羽泉[^ge-yuquan]。
+make friends,
 
-也说要来开演唱会。
+and talk big about economics and sociology I did not understand.
 
-我还是被派去打杂。
+Back then I felt:
 
-那年夏天我剃了个光头。
+as long as a person could still do these things,
 
-他们在台前唱歌，
-
-我在后台搬东西，来回跑。
-
-后来同学跟我说：
-
-“今天演唱会我看到你了。”
-
-我说：“我又没上台。”
-
-他说：
-
-“我看到后台有个光头一直在晃。”
-
-嗯。
-
-那大概就是我。
+life was not so bad.
 
 \
-后来我创立了美术学会和书法协会。
+I started doing odd jobs for some clubs.
 
-说是“创立”，其实也没有后来人想象得那么郑重。
+One day a man named Lu Gengxu[^ge-lu] came to the club,
 
-不过是找几个同样有兴趣的人。
+saying he wanted to put on a concert at the school.
 
-借一间教室，写几张通知，再想办法把这件事撑下去。
+I was sent to help him carry things.
 
-虽然是名校，
+He stood downstairs.
 
-但对学生来说，很多事情还是要自己张罗。
+Wearing a very large hat.
 
-社团可以办。
+Beside him a stack of Butterfly Flower posters.
 
-经费却几乎没有。
+I crouched on the ground helping him move tables and speakers.
 
-活动可以做，但场地要自己借，海报要自己写，事情要自己跑。
+I thought to myself—
 
-我那时喜欢折腾这些。
+so this is what someone who puts on concerts looks like;
 
-学校的资源大多在科研上。
-
-学生社团能拿到的东西其实不多。
-
-别人暑假回家。
-
-我留在学校打工。
-
-天热得很，校园里空空荡荡，树叶一动不动，只有知了在叫。
-
-我白天干活，晚上回宿舍写字、画画。
-
-那时候我总觉得，青春并不是轰轰烈烈的东西。
-
-青春更像一间空教室。
-
-黄昏的光照进来，黑板上还有没擦干净的粉笔字。
-
-你一个人站在里面，觉得自己将来好像什么都能做，又好像什么都抓不住。
-
-
-## 试唱
-
-记不得哪天了，有人问我，要不要去试唱北京大学生合唱团。
-
-我知道这个团，很有名。
-
-我答应了。
-
-其实我心里没什么底。
-
-我从小就很会唱歌。
-
-平常听见喜欢的歌，就跟着唱。
-
-我善于模仿别人唱歌的声线。
-
-我会点简谱，但我不认识五线谱。
-
-高音上得去，低音也不算太虚，仅此而已。
-
-试唱那天，屋里坐着几个人。
-
-有记名字的，还有两个负责听和写的人。
-
-轮到我的时候，我轻轻站到钢琴旁边。
-
-我说我不会五线谱，说完忽然觉得喉咙有点发紧。
-
-团长是一个英语系的女生，坐在钢琴前。
-
-窗户开着，风吹进来，把谱子边角吹得轻轻动。
-
-她说没关系，然后问我唱什么。
-
-我说，《敖包相会》。
-
-她点了点头，手落在琴键上，给我起了个音。
-
-我就开始唱。
-
-一开始还好。
-
-唱到高一点的地方，我放开了些。
-
-那种感觉我后来常常记得：
-
-前面几句还像是在试探，到了后面，高音一出去，人反而不紧张了。
-
-我唱完以后，房间里安静了一下。
-
-副团长先开口，说，“不行”。
-
-他说得很直接：
-
-“不会看谱，不太行。”
-
-我站在那里，脸有点热，也不知该说什么。
-
-我已经准备转身走了。
-
-团长看了我一会儿，说了一句：
-
-“高音还不错。”
-
-然后她说，“留下吧”。
-
-我后来想，一个人的命运有时候真的很奇怪。
-
-不是谁说了很多话，也不是发生了什么大事。
-
-只是有人在你快要被划掉的时候，说了一句：
-
-“留下吧。”
-
-我就这样进了合唱团。
+not so different from ordinary people.
 
 \
-好巧不巧，后来我才发现，团长是我美术课的同学。
+Later a band with a strange name, Yu Quan[^ge-yuquan],
 
-有一次上课，她来得晚。
+also said they were coming to perform.
 
-教室里几乎已经坐满了。
+I was again sent to help.
 
-我旁边正好还有一个位子。
+That summer I had shaved my head.
 
-我把凳子让给她。
+They sang on stage;
 
-她一开始不肯坐。
+I carried things backstage, back and forth.
 
-我说：
+Later a classmate said:
 
-“你太高了。
+“I saw you at the concert today.”
 
-站着的話，後面同学看不见黑板。”
+I said: “I wasn’t on stage.”
 
-她这才坐下。
+He said:
 
-追求她的人太多了。
+“I saw a bald head in the backstage area, moving around the whole time.”
 
-多到我连想到这件事，都有点不好意思。
+Yeah.
 
-
-\
-她长得很好看。
-
-是那种学校里公认的校花。
-
-平时话不多，也不怎么笑，和人保持着一种自然的距离。
-
-可她一坐到钢琴前，整个人又不一样了。
-
-她弹琴的时候很安静。
-
-不是没有声音，而是她会把周围的杂乱都压下去。
-
-我们一排一排站在她身后，跟着她的琴声进、跟着她的琴声停。
-
-有时候她抬头听某个声部，眉头微微皱一下;
-
-有时候觉得对了，也不夸，只轻轻点个头。
-
-我站在人群里，看她的背影，看她的手，看钢琴上来回跳动的光,
-
-忽然觉得，美原来可以这样流动出来。
+That was probably me.
 
 \
-但我在合唱团里，其实并不属于那种“标准团员”。
+Later I founded the art society and the calligraphy association.
 
-我不识谱。
+“Founded” sounds grand; in truth it was nothing so solemn.
 
-别人拿到谱子，会先低头看旋律线。
+Just finding a few people with the same interests,
 
-我只能靠听，靠记，靠跟。
+borrowing a classroom, putting up a few notices, and finding a way to keep it going.
 
-别人看着纸唱，我看着别人唱。
+Though it was a top school,
 
-副团长还是不太喜欢我这一路子。
+for students many things still had to be arranged by ourselves.
+
+Clubs could be run.
+
+Funding was almost none.
+
+Activities could be held, but we had to borrow the space, write the posters, do the legwork ourselves.
+
+I liked that kind of hustle then.
+
+Most of the school’s resources went to research.
+
+Student clubs got very little.
+
+Others went home for summer break.
+
+I stayed and worked on campus.
+
+It was very hot; the campus was empty, leaves motionless, only cicadas singing.
+
+I worked by day; at night I returned to the dorm to write characters and draw.
+
+Back then I often felt that youth was not something loud and dramatic.
+
+Youth was more like an empty classroom.
+
+Dusk light coming in, chalk marks still on the blackboard.
+
+You stand there alone, feeling you could do anything in the future, and also that you could grasp nothing.
+
+
+## Audition
+
+I don’t remember which day it was when someone asked if I wanted to audition for the Beijing University Student Chorus.
+
+I knew the group; it was well known.
+
+I said yes.
+
+I wasn’t at all confident, to be honest.
+
+I had always been able to sing.
+
+When I heard a song I liked, I would sing along.
+
+I was good at mimicking other people’s voices.
+
+I could read numbered notation, but I didn’t know staff notation.
+
+I could reach the high notes; the low notes weren’t too weak. That was it.
+
+The day of the audition, a few people sat in the room.
+
+Someone taking names, and two others listening and writing.
+
+When my turn came, I stood quietly by the piano.
+
+I said I didn’t know staff notation; as soon as I said it I felt my throat tighten.
+
+The director was a woman from the English department, seated at the piano.
+
+The window was open; wind came in and stirred the corners of the sheet music.
+
+She said it was fine, then asked what I would sing.
+
+I said, “Meeting at the Aobao.”
+
+She nodded, her hands touched the keys, and she gave me the starting note.
+
+I began to sing.
+
+At first it was okay.
+
+When I reached the higher part, I let go a bit.
+
+I often remember that feeling later:
+
+the first few lines still felt like testing the water; then the high note came out and the tension fell away.
+
+When I finished, the room was quiet for a moment.
+
+The deputy director spoke first: “No.”
+
+He was blunt:
+
+“Can’t read music; that won’t do.”
+
+I stood there, face a little hot, not sure what to say.
+
+I was already turning to leave.
+
+The director looked at me for a while, then said:
+
+“The high notes aren’t bad.”
+
+Then she said, “Stay.”
+
+I thought later that a person’s fate can be very strange.
+
+Not because someone said a lot, or because something big happened.
+
+Only because someone said, when you were about to be crossed off:
+
+“Stay.”
+
+That was how I joined the chorus.
 
 \
-有一次排练，团长让我们单独唱一段。
+As it happened, I later found out the director was a classmate from my art class.
 
-别人唱完，她点点头，到我这里，她皱了皱眉。
+Once she came to class late.
 
-你还是不认谱。
+The room was almost full.
 
-我说，是。
+There was one seat left next to me.
 
-她说，你这样很吃亏。
+I offered her the chair.
 
-我没反驳。因为她说得对。
+At first she wouldn’t sit.
 
-\
-排练多的时候，一周要去好几次。
+I said:
 
-教室里常有一股木头、纸张和旧琴漆混在一起的味道。
+“You’re too tall.
 
-夏天热，男生后背一会儿就湿。
+If you stand, the people behind can’t see the blackboard.”
 
-冬天冷，大家跺着脚等开始。
+Only then did she sit.
 
-对我来说，歌就是出口。
+She had far too many suitors.
 
-写字是一个人的事，画画也是一个人的事，只有唱歌不是。
-
-唱歌的时候，你站在人群里，声音从胸腔里出来，
-
-和别人的声音叠在一起，忽然就不再只是你自己的了。
-
-\
-有时候排练结束，天已经黑了。
-
-我们从教室出来，楼道里空荡荡的，远处的灯一盏一盏亮着。
-
-我背着书包慢慢往宿舍走，风从操场那边吹过来，带一点夜里的凉气。
-
-那时候我常常觉得，人生如果就这样一直下去，好像也没什么不好。
-
-白天排练唱歌。
-
-晚上写字画画。
-
-未来在哪里，并不清楚。
-
-但每一天都还能被某种东西照亮。
+So many that I felt a little embarrassed even thinking about it.
 
 
 \
-我后来还学过一点美声。
+She was very good-looking.
 
-那已经是很多年以后，在硅谷，我跟一位歌唱家学过一段时间。
+The kind everyone at school agreed was the campus beauty.
 
-那时候我唱的，就是《我的太阳》那種意大利風格的。
+She didn’t talk much, didn’t smile much, kept a natural distance from people.
 
-那种歌和《敖包相会》完全不是一个路子。
+But when she sat at the piano, she was different.
 
-需要把身体整个打开。
+When she played she was very quiet.
 
-但我回头想起“歌”这件事。
+Not silent—she seemed to quiet everything around her.
 
-最先想起的，还是大学里那个不认识五线谱的自己。
+We stood in rows behind her, following her playing in, following her playing to a stop.
 
-想起试唱那天。
+Sometimes she would look up to listen to a section, frown slightly;
 
-副团长说不行。
+sometimes when it was right she didn’t praise, just gave a slight nod.
 
-团长却说高音还不错。
+I stood in the crowd, watching her back, her hands, the light dancing on the piano,
 
-我就被留下来了。
-
-\
-现在回头看，年轻时的很多尊严，其实都很脆弱。
-
-一句否定，能让你立刻低下头。
-
-一句肯定，也足够让你记很多年。
-
-那时候我也会看团长。
-
-不是那种真能走上前去说什么的看法，只是远远地看。
-
-看她弹琴，看她低头翻谱，看她把散下来的头发轻轻拨到耳后。
-
-后来回想起来，她更像青春里的一个象征。
-
-好看。
-
-安静。
-
-遥远。
-
-留下来的，是钢琴声。
-
-是站在她身后，一排排跟着唱的那些傍晚。
-
-是窗外快要暗下去的天色。
-
-是某个高音上去以后，心里忽然亮了一下。
-
-是钢琴轻轻响起的时候，琴弦在空气里微微震动的声音。
+and suddenly felt that beauty could flow out like that.
 
 \
-大学毕业以后，很多事都散了。
+But in the chorus I was never the “standard” kind of member.
 
-社团会散。
+I couldn’t read music.
 
-人会走。
+Others would look at the melody line first when they got the score.
 
-琴弦松了会换。
+I could only rely on listening, on memory, on following.
 
-琴房会换别人进去。
+Others sang from the page; I sang by watching others.
 
-可歌没有完全散。
+The deputy director never much liked my approach.
 
-它留在嗓子里。
+\
+Once at rehearsal the director had us each sing a passage.
 
-也留在记忆里。
+When others finished she nodded; when it was my turn she frowned.
 
-青春大概就是这样。
+You still don’t read music.
 
-你并不真正拥有什么。
+I said, no, I don’t.
 
-却会因为一个社团、一首歌、一个高音、
+She said, you’re at a disadvantage.
 
-一个坐在钢琴前的背影，
+I didn’t argue. She was right.
 
-觉得自己已经拥有了整个世界。
+\
+When rehearsals were heavy, we went several times a week.
 
-[^ge-lu]: 卢庚戌（1970—），清华大学建筑系毕业，歌手、音乐人。2001 年与李健组建水木年华，担任主唱及创作，《一生有你》《在他乡》等歌曲广为传唱；后李健单飞，水木年华成员几经更迭，卢庚戌持续以水木年华名义创作与演出。
+The room often had a smell of wood, paper, and old piano lacquer mixed together.
 
-[^ge-yuquan]: 羽泉，中国内地流行音乐组合，由陈羽凡与胡海泉组成，1998 年成立。
+In summer it was hot; the boys’ backs were soon wet.
+
+In winter it was cold; everyone stamped their feet waiting to start.
+
+For me, song was the way out.
+
+Writing characters was a solitary thing; drawing was too. Only singing was not.
+
+When you sang, you stood in the crowd, sound coming from your chest,
+
+layering with others’ voices—and suddenly it was no longer only yours.
+
+\
+Sometimes when rehearsal ended, it was already dark.
+
+We came out of the room; the corridor was empty, lights turning on one by one in the distance.
+
+I walked slowly back to the dorm with my bag, wind blowing from the sports field with a little night chill.
+
+I often felt then that if life went on like that, it might not be so bad.
+
+Rehearse and sing by day.
+
+Write and draw by night.
+
+Where the future lay was unclear.
+
+But every day could still be lit by something.
+
+
+\
+I studied a little bel canto much later.
+
+That was years afterward, in Silicon Valley, with a professional singer for a while.
+
+By then I was singing things like “O sole mio,” that Italian style.
+
+That kind of song and “Meeting at the Aobao” were not the same world.
+
+You had to open your whole body.
+
+But when I think back to “song,”
+
+the first thing I see is still that self at university who couldn’t read staff notation.
+
+The day of the audition.
+
+The deputy director said no.
+
+The director said the high notes weren’t bad.
+
+I was allowed to stay.
+
+\
+Looking back now, much of the dignity of youth was fragile.
+
+One word of rejection could make you lower your head at once.
+
+One word of approval was enough to remember for years.
+
+I would watch the director then.
+
+Not in a way that could ever become walking up to say something—just from a distance.
+
+Watching her play, watching her turn the pages, watching her tuck her hair behind her ear.
+
+Looking back, she was more like a symbol of youth.
+
+Beautiful.
+
+Quiet.
+
+Far away.
+
+What stayed was the sound of the piano.
+
+The evenings standing in rows behind her, singing along.
+
+The sky outside the window growing dark.
+
+That moment when a high note landed and something lit up inside.
+
+The faint vibration of the strings in the air when the piano sounded.
+
+\
+After graduation much of it scattered.
+
+Clubs scatter.
+
+People leave.
+
+Strings loosen and get replaced.
+
+Practice rooms get new people.
+
+But song did not entirely scatter.
+
+It stayed in the throat.
+
+And in memory.
+
+Youth is perhaps like that.
+
+You don’t really possess anything.
+
+Yet because of a club, a song, a high note,
+
+a figure at the piano,
+
+you feel you have already possessed the whole world.
+
+[^ge-lu]: Lu Gengxu (b. 1970), Tsinghua University architecture graduate, singer and musician. In 2001 he co-founded Shui Mu Nian Hua with Li Jian, serving as lead vocal and songwriter; songs like “Having You for Life” and “In a Foreign Land” became widely known. After Li Jian left, the lineup changed several times; Lu has continued to create and perform under the name Shui Mu Nian Hua.
+
+[^ge-yuquan]: Yu Quan, a Chinese pop duo formed by Chen Yufan and Hu Haiquan in 1998.

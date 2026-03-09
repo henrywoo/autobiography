@@ -1,8 +1,8 @@
 # Chapter 11: 云 {-}
 
-*從优步到甲骨文*
+*From Uber to Oracle*
 
-> 云在上面，人在下面。
+> The cloud is above; people are below.
 - 玄心
 
 **tp_image**
@@ -10,240 +10,240 @@
 ![](img/yun.png){width=100%}
 
 
-## 选择
+## Choice
 
-离开 优步 的时候，自动驾驶的潮水正在退去。
+When I left Uber, the tide of autonomous driving was ebbing.
 
-前几年，这个项目炙手可热，无数的投资涌进来。
+In the years before, the field had been white-hot; investment had poured in.
 
-那时候很多人觉得，方向盘很快就会变成古董，车很快就能自己开。
+Back then many people thought the steering wheel would soon be a relic, that cars would drive themselves.
 
-直到那场事故发生。[^yun-uber]
+Until that accident.[^yun-uber]
 
-那场事故几乎改变了一切——监管、投资人的态度、公司的计划。
+That accident changed almost everything—regulation, investors’ attitude, companies’ plans.
 
-再后来，公司决定把无人车业务整体卖掉。[^yun-atg]
+Later the company decided to sell the entire self-driving business.[^yun-atg]
 
-那种感觉很难形容。
+The feeling was hard to describe.
 
-有些你以为会一直做下去的事业，忽然就成了别人談判桌上的一份籌碼。
+Something you thought you would keep doing suddenly became a bargaining chip on someone else’s table.
 
-转眼就结束了。
+Over in a blink.
 
-我面前有三个截然不同的选择。
+I had three very different choices in front of me.
 
-Apple的offer已经在手里，而且我原来组里一半的同事都去了那里。
+I already had an offer from Apple, and half my former teammates had gone there.
 
-一家大银行也抛来了橄榄枝。
+A big bank had also extended an olive branch.
 
-还有几家无人车公司在耳边不断打电话。
+Several autonomous-vehicle companies kept calling.
 
-甲骨文是最不起眼的那个。
+Oracle was the least conspicuous.
 
-那时候它的股价在五十块附近徘徊了十多年，像一个被时代遗忘的公司。
+Its stock had hovered around fifty dollars for over a decade, like a company the era had forgotten.
 
-有人甚至直接问我：
+Someone asked me directly:
 
-“那公司都快死了，你去干什么？”
+“That company is practically dead—what are you going there for?”
 
-我没有回答。
+I didn’t answer.
 
-但我还是去了。
+But I went anyway.
 
-面试那天，我遇到了一位同系的师兄。
+The day of the interview I met a senior from my department.
 
-我们坐在会议室里，走完面试流程之后，从导师聊到校园里的树影。
+We sat in a conference room; after the interview we went from our advisor to the shadows of trees on campus.
 
-很多已经尘封的记忆忽然被打开。
+Many long-buried memories suddenly opened.
 
-后来，招聘主管几乎每天打电话。
+Later the hiring manager called almost every day.
 
-那种邀请，有一种近乎赤诚的热情。
+That kind of invitation had a nearly naked sincerity.
 
-不知怎么的，我就签了字。
+Somehow I signed.
 
-签字那天晚上，我有点失眠。
+The night I signed I had trouble sleeping.
 
-果然，现实很快给了我一记闷棍。
+Sure enough, reality soon dealt me a blow.
 
-入职第一周，落后的系统和沉闷的氛围让我几乎窒息。
+The first week, the outdated systems and stifling atmosphere made me feel I could hardly breathe.
 
-我甚至动过“跳船”的念头。
+I even thought about jumping ship.
 
-我给之前拒绝过的一家无人车公司的HR打电话。
+I called the HR at an autonomous-vehicle company I had once turned down.
 
-我曾经帮他们介绍过一个人过去，她还欠我一笔介绍费。
+I had once referred someone to them; she still owed me a referral fee.
 
-我问她：
+I asked her:
 
-“现在还能不能去你那儿？”
+“Can I still come to you now?”
 
-电话那头沉默了一会儿。
+There was silence on the line.
 
-然后她说：
+Then she said:
 
-“你既然选择了甲骨文，说明你已经准备去养老了。”
+“Since you chose Oracle, it means you’ve already decided to retire.”
 
-“我们的价值观不一样。”
+“Our values don’t align.”
 
-电话挂断了。
+The call ended.
 
-那一刻我忽然觉得，这句话像一种侮辱。
+In that moment the words felt like an insult.
 
-我想，既然已经没有退路，那就把事情做到极致。
+I thought, since there was no way back, I would do the work to the extreme.
 
-哪怕每天干十八个小时。
+Even if it meant eighteen hours a day.
 
 
 
 ## MOGA
 
-入职后的第一次会议，大家要做自我介绍，说说自己为什么加入甲骨文。
+At the first meeting after I joined, everyone was to introduce themselves and say why they had joined Oracle.
 
-那时候川普刚卸任，但他的那句口号还在。
+Trump had just left office, but his slogan was still in the air.
 
-我在会上说，我加入是为了让甲骨文再次伟大(make Oracle great again)。[^yun-maga]
+I said at the meeting that I had joined to make Oracle great again.[^yun-maga]
 
-一个工程师很难改变一家公司。
+One engineer can’t change a company.
 
-那是我的愿望。
+That was my wish.
 
-我甚至把这句话放在了社交媒体自我介绍的第一句。
+I even put that line first in my social-media bio.
 
-我不知道当时有没有人把那句话当真。
+I don’t know if anyone took it seriously then.
 
-后来很多事情慢慢发生。
+Later many things slowly happened.
 
-有时候，在最不被看好的地方扎下根，
+Sometimes when you put down roots in the most unlikely place,
 
-你会发现事情开始变了。
+you find things begin to change.
 
-甲骨文的股价开始慢慢往上走。
+Oracle’s stock began to climb.
 
-两年之后再回头看，那条曲线已经翻了好几倍。
+Looking back two years later, that curve had multiplied several times over.
 
-后来它还在继续往上走。
+Later it kept climbing.
 
-直到有一天，我们忽然发现——
-公司的老板，被这波上涨推成了世界首富。[^yun-oracle]
+Until one day we suddenly realized—
 
-世界首富其实也是普通人。
+the company’s founder had been pushed by that rise to become the world’s richest person.[^yun-oracle]
 
-只是精力好像不太一样。
+The world’s richest person is also an ordinary person.
 
-我见过他快八十岁了。
+Only the energy seems a bit different.
 
-谈起云计算和大模型这些技术变革的时候，眼睛依然锐利。
+I’ve seen him when he was nearly eighty.
 
-技术在变。
+When he talked about cloud computing and the technological shift of large models, his eyes were still sharp.
 
-机器开始做以前只有人才能做的事。
+Technology is changing.
 
-写程序。
+Machines are starting to do what only humans could do before.
 
-写文档。
+Write code.
 
-思考。
+Write documents.
 
-2022年的时候，我在想，如果机器也能思考，人为什么还要工作？
+Think.
 
-以前这可能是个哲学问题。
+In 2022 I was thinking: if machines can think too, why should people still work?
 
-但现在这是每天面对的工程问题。
+That used to be a philosophical question.
 
-后来我在甲骨文开始做云上的AI架构和训练AI模型。
+Now it’s an engineering question you face every day.
 
-每天都在试图寻找答案。
+Later at Oracle I began working on AI architecture in the cloud and training AI models.
 
-数据中心里，服务器的蓝光一排排闪烁。
+Every day trying to find an answer.
 
-风扇的声音像远处的海。
+In the data center, the blue lights of servers flicker row after row.
+
+The sound of fans like a distant sea.
 
 ## ChatGPT
 
-在ChatGPT爆发之前，我已经在摆弄那些巨大的语言模型。
+Before ChatGPT exploded I had already been tinkering with those huge language models.
 
-那时候，一些模型在开源社区已经很热门了。
+By then some models were already hot in the open-source community.
 
-那种热度是安静的，却又狂热。
+That heat was quiet and yet feverish.
 
-我在GitHub上隨手发了一个代碼庫，
+I casually put a repo on GitHub;
 
-收藏很快过千。
+stars passed a thousand quickly.
 
-私信里挤满了人 —— 医生、律师、学生，甚至農夫。
+My inbox was full—doctors, lawyers, students, even farmers.
 
-甚至有人说要开车来找我學習。
+Someone even said they would drive over to learn from me.
 
-那种狂热让我感到一丝恐惧。
+That fervor made me feel a touch of fear.
 
-2023年1月，ChatGPT意外的火了。
+In January 2023, ChatGPT unexpectedly went viral.
 
-我已經把玩這塊很久了，在我看來其實一點不意外。
+I had been playing with this for a long time; to me it wasn’t unexpected at all.
 
-我站在机房外面，脑子里只有一个念头：
+I stood outside the server room with one thought in my head:
 
-技术的拐点到了。
+The inflection point for technology has come.
 
-以前做的很多系统，可能都要推倒重来。
+Many of the systems we had built might have to be torn down and rebuilt.
 
-再后来我开始做Copilot。
+Later I began working on Copilot.
 
-名义上是程序员的助手。
+Officially an assistant for programmers.
 
-但我心里清楚，它真正的目标是什么。
+But I knew in my heart what its real aim was.
 
-有时候我看着身边的同事。
+Sometimes I looked at my colleagues.
 
-在我的视角里，他们慢慢变得模糊。
+From my perspective they slowly grew blurry.
 
-变成一行行冰冷的Transformer代码。
+Became cold lines of Transformer code.
 
-有一次我测试了一套新系统。
+Once I tested a new system.
 
-数据显示，它可以完成70%的初级开发工作。
+The data showed it could complete 70% of junior development work.
 
-团队在欢呼。
+The team cheered.
 
-透过香槟的泡沫，我忽然想到一件事。
+Through the champagne bubbles I suddenly thought of something.
 
-如果系统能完成70%的开发任务，
+If the system can complete 70% of development tasks,
 
-那是不是也意味着——
+does that also mean—
 
-很快就会有70%的人消失?
+soon 70% of people will disappear?
 
-我们做的事情，有点像在挖坑。
+What we’re doing is a bit like digging a hole.
 
-而且为了不被时代埋掉，我们还必须挖得比其他人更快。
+And to avoid being buried by the era we have to dig faster than everyone else.
 
-有时候我会想起很早以前看到的一幅字。
+Sometimes I think of a piece of calligraphy I saw long ago.
 
-在广州的一间小办公室里。
+In a small office in Guangzhou.
 
-那五个字：
+Those five characters:
 
-"云层之上无风雨。"
+“Above the clouds there is no wind or rain.”
 
-云在头顶。
+The cloud is overhead.
 
-代码在中间。
+Code is in the middle.
 
-我们正在制造一场风暴。
+We are making a storm.
 
-而云的下面，
+And below the cloud
 
-人还在照旧走路。
+people are still walking as before.
 
-只是没有人知道，
+Only no one knows
 
-这条路会通向哪里。
+where this road leads.
 
-[^yun-uber]: 2018 年 3 月，优步 自动驾驶测试车在美国亚利桑那州坦佩市撞死一名行人，成为全球首起自动驾驶致人死亡事故；此后监管收紧，优步 将无人车业务出售给 Aurora。
+[^yun-uber]: In March 2018, an Uber self-driving test vehicle struck and killed a pedestrian in Tempe, Arizona, the world’s first fatal autonomous-driving accident; regulation tightened thereafter and Uber sold its self-driving unit to Aurora.
 
-[^yun-atg]: 2020 年，优步 将自动驾驶业务（ATG）出售给 Aurora。
+[^yun-atg]: In 2020, Uber sold its autonomous driving business (ATG) to Aurora.
 
-[^yun-maga]: 特朗普竞选与执政时的口号「Make America Great Again」（让美国再次伟大），简称 MAGA。
+[^yun-maga]: Trump’s campaign and presidency slogan “Make America Great Again,” abbreviated MAGA.
 
-[^yun-oracle]: 甲骨文（Oracle）股价在 AI 与云业务推动下大幅上涨，创始人 Larry Ellison（拉里·埃里森）一度超越马斯克成为全球首富。
-
+[^yun-oracle]: Oracle’s stock rose sharply on the back of AI and cloud business; founder Larry Ellison briefly surpassed Musk as the world’s richest person.

@@ -1,8 +1,8 @@
 # Chapter 2: 路 {-}
 
-*那条路现在也许还在。只是走路的人已经散了。*
+*That dirt road may still be there. Only the people who walked it have scattered.*
 
-> 路是走出来的。
+> The road is made by walking.
 - 玄心
 
 **tp_image**
@@ -10,313 +10,312 @@
 ![](img/lu.png){width=100%}
 
 
-## 第一
+## First
 
-从小学到初中，我几乎总是考第二。第一永远是他。
+From primary school through middle school I almost always came in second. First was always him.
 
-他是我同班同学。
+He was in my class.
 
-一个小学三年级就读完《红楼梦》，还能背的人。
+The kind of person who had finished *Dream of the Red Chamber* and could recite it by third grade.
 
-一个学象棋一个星期，就能和镇上几十年的老棋手下成平手的人。
+The kind who learned chess in a week and could hold his own against the town’s veterans.
 
-一个不需要怎么读书就能考满分的人。
+The kind who didn’t need to study much to get full marks.
 
-小學的時候，数学老师特别喜欢叫他上黑板解题。
+In primary school the math teacher loved to call him to the blackboard to solve problems.
 
-我们还没看明白题目，他已经写完了。
+Before we had finished reading the question, he was done.
 
-那时候我很佩服他。
+I admired him then.
 
-也想过，如果我有他的脑子就好了。
+I also thought, if only I had his mind.
 
-我们那里没有“天才”这个词，大家只说，他聪明。
+We didn’t have a word for “genius” where I was from; people just said he was clever.
 
-我是那个努力的——努力的可以学得很好，但考不过聪明的。
-
-\
-有一年夏天，期末考试发成绩。
-
-教室里很安静。窗外的蝉已经开始叫。
-
-所有人都在等班主任进来。
-
-在我们那个小镇的初中里，成绩几乎决定一切。
-
-我坐在第三排，前面是他。
-
-班主任走进来，手里拿着一叠卷子，站在讲台上说：
-
-“这次考试，成绩出来了。”
-
-教室更安静了。
-
-我们班的习惯是先念前十名。
-
-班主任翻开名单，念了第一个名字。
-
-果然还是他。
-
-没有人惊讶，好像这是理所当然的事情。
-
-他站起来，走到讲台前拿卷子，动作很自然。
-
-然后班主任念第二名。
-
-是我。
-
-我走上拿了卷子。
-
-下来的时候，看了一眼他的分数。
-
-比我高四分。
-
-就差四分。
-
-回到座位，我心里想，下一次，也许可以超过他。
-
+I was the one who worked—I could do very well by working, but I couldn’t beat the clever one.
 
 \
-从小学我就开始我就这么想。
+One summer the final exam results came out.
 
-这么多年一直没实现过。
+The classroom was quiet. Cicadas had already started outside.
 
-但我还是会这么想。
+Everyone was waiting for the homeroom teacher.
 
-发完成绩，放学以后，我们走同一条路回家。
+In our small-town middle school, grades decided almost everything.
 
-那是一条土路，从学校门口一直通到我们村。
+I sat in the third row; he was in front of me.
 
-晴天是灰的，雨天是泥的。
+The teacher came in with a stack of papers and said from the podium,
 
-路两边有时是田，有时是坡，有时什么也没有，只有草。
+“The results for this exam are out.”
 
-我背着书包走在路上。
+The room got quieter.
 
-有时候他走在前面。
+Our class always read out the top ten first.
 
-有时候我们并排。
+The teacher opened the list and read the first name.
 
-有时候我一个人。
+Him again.
 
-我常常想一件事。
+No one was surprised; it was as if that was only to be expected.
 
-为什么赢不了。
+He stood, walked up for his paper, very natural.
 
-不是不服气，就是不明白。
+Then the teacher read the second name.
 
-我明明也做了题，也听了课，也把那些题多算了几遍。
+Me.
 
-为什么他不用这么费劲就能考第一？
+I went up and took my paper.
 
-路很长。
+On the way back I glanced at his score.
 
-我就在那条土路上，一遍一遍地想。
+Four points higher than mine.
 
-難道是他後腦勺比我大?
+Just four points.
 
-没有人可以问。
+Back at my desk I thought, next time, maybe I can beat him.
 
-问老师？问父母？问他？
-
-我们平时话不多。
-
-他不是骄傲，只是话少。
-
-我只是想赢他一次。
-
-一次就好。
-
-从来没有赢过。
-
-小学没有。
-
-初中也没有。
-
-
-## 不見
-
-
-其实我们关系很好。
-
-一起斗鸡。
-
-一起集邮。
-
-一起讨论唐诗宋词。
-
-有时候走在路上，忽然就念一句：
-
-天生我才必有用，千金散尽还复来。
-
-他更喜欢李白，但是我觉得杜甫好些。
-
-李贺的劲道也不错。
-
-这一点我们倒是达成一致。
-
-他喜欢华丽的辞藻。
-
-我喜欢平淡的小草。
-
-他不感兴趣的话题，就很少说话。
-
-但放学以后，我们常常站在路边聊很久。
-
-有时候聊历史。
-
-有时候聊很远的事情。
-
-有一次我们在那条土路上讨论一个问题。
-
-宇宙是不是有限的。
-
-他说不是。
-
-宇宙是无限的。
-
-我想了很久。
-
-还是想不明白。
-
-我说，人的生命是有限的。
-
-树会长大，也会死。
-
-河水会流走。
-
-路也会走到头。
-
-既然这样，宇宙怎么会是无限的？
-
-他笑了笑。
-
-没有回答。
 
 \
-后来到初二，他转学了。
+I had been thinking that since primary school.
 
-听说是因为他爸工作调动。
+All those years it never happened.
 
-从那以后，我们不再一起回家。
+But I still thought it.
 
-那条土路，只剩我一个人走。
+After the results, after school, we walked the same road home.
 
-再后来，到了中考那个夏天。
+A dirt road from the school gate all the way to our village.
 
-我们走上了不同的路。
+Dusty when it was dry, mud when it rained.
 
-他考上了中专。
+On both sides sometimes fields, sometimes slopes, sometimes nothing but grass.
 
-家里觉得早点出来工作好，更稳。
+I walked with my bag on my back.
 
-我落榜了。
+Sometimes he was in front.
 
-后来才知道是内招名额的事，当时不知道。
+Sometimes we walked side by side.
 
-阴差阳错，我进了重点高中。
+Sometimes I was alone.
 
-那时候农村的孩子，很多人都想考师范、考中专，早点出来工作赚钱。
+I often wondered one thing.
 
-去读高中，反而被人觉得可惜。
+Why couldn’t I win.
 
-两条完全不同的路。
+Not that I refused to accept it—I just didn’t understand.
 
-他更早进入社会。
+I had done the problems, listened in class, gone over them again and again.
 
-下海打工。
+Why could he be first without trying so hard?
 
-后来又回到了体制内。
+The road was long.
 
-经历了很多事。
+On that dirt road I kept thinking, over and over.
 
-据说也被人骗过。
+Was it because the back of his head was bigger than mine?
 
-甚至有人说，他被装进麻袋卖去了南方。
+There was no one to ask.
 
-我觉得不可思议。
+The teacher? My parents? Him?
 
-也许只是个传闻。
+We didn’t talk much.
 
-我上了高中。
+He wasn’t proud; he just didn’t say much.
 
-那几年，我们还通信。
+I only wanted to beat him once.
 
-写信的时候，我们用古文。
+Once would be enough.
 
-这是我们特有的通讯方式。
+I never did.
 
-有时候也会寄照片。
+Not in primary school.
 
-信里说的，多半是互相鼓励，还有将来的事。
+Not in middle school.
 
-后来我上了大学，然后出国。
 
-我妈和他妈认识。
+## Gone
 
-我听我妈说，我上大学的时候，他在家里哭。
 
-我出国的时候，他在家里跟他爸发脾气，说当时不该听他们的话去读中专。
+We were actually good friends.
 
-我不知道该说什么。
+We played fighting roosters together.
 
-只是后来，
+We collected stamps together.
 
-我慢慢发现，
+We talked about Tang and Song poetry.
 
-我们走上了不同的路。
+Sometimes walking on the road we’d suddenly recite a line:
+
+Heaven made me for a use; when the gold is spent it will come again.
+
+He preferred Li Bai; I thought Du Fu was better.
+
+Li He had a good edge too.
+
+On that we agreed.
+
+He liked ornate language.
+
+I liked plain grass.
+
+On topics that didn’t interest him he said little.
+
+But after school we often stood by the road and talked a long time.
+
+Sometimes about history.
+
+Sometimes about things far away.
+
+Once on that dirt road we argued a question.
+
+Is the universe finite?
+
+He said no.
+
+The universe is infinite.
+
+I thought for a long time.
+
+I still couldn’t see it.
+
+I said, human life is finite.
+
+Trees grow and they die.
+
+Rivers run away.
+
+Roads come to an end.
+
+So how can the universe be infinite?
+
+He smiled.
+
+Didn’t answer.
 
 \
-很多年以后，我回老家。
+In second year he transferred.
 
-镇上的街道和记忆里差不多，只是比以前更窄了一点。
+They said his father had been reassigned.
 
-小时候觉得很大的地方，现在走几步就到了尽头。
+After that we didn’t walk home together anymore.
 
-我想见他一面。
+That dirt road—only I was left to walk it.
 
-托一个老同学帮忙联系，说很多年没见了，想一起吃个饭。
+Then came the summer of the high school entrance exam.
 
-老同学沉默了一会儿，说帮我问问。
+We went different ways.
 
-那天晚上我收到回话。
+He got into a technical secondary school.
 
-他说，他不见了。
+His family thought it was better to start work early, more secure.
 
-老同学解释得很小心。
+I failed to get in.
 
-他说大家都这么多年没联系了，就算了。
+Later I learned it was about reserved quotas; at the time I didn’t know.
 
-我没有生气。
+By a twist of fate I ended up in a key high school.
 
-只是忽然有一点说不清的感觉。
+In those days many village kids wanted to go to teacher-training or technical school, to work and earn sooner.
 
-好像有一扇门，在很久以前就已经关上了。
+Going to high school instead was seen as a pity.
 
-只是我今天才发现。
+Two completely different roads.
+
+He entered the world earlier.
+
+Went into business, took jobs.
+
+Later he went back into the system.
+
+Went through a lot.
+
+They said he’d been cheated too.
+
+Some even said he’d been put in a sack and sold to the south.
+
+I found it hard to believe.
+
+Maybe it was just a rumor.
+
+I went to high school.
+
+For a few years we still wrote.
+
+When we wrote we used classical Chinese.
+
+That was our way of talking.
+
+Sometimes we sent photos.
+
+The letters were mostly encouragement and things about the future.
+
+Later I went to university, then abroad.
+
+My mother and his knew each other.
+
+My mother told me that when I went to university he cried at home.
+
+When I went abroad he had an argument with his father, said he shouldn’t have listened and gone to technical school.
+
+I didn’t know what to say.
+
+Only that later
+
+I slowly saw
+
+we had taken different roads.
 
 \
-后来我一个人走到初中门口。
+Years later I went back to my hometown.
 
-学校已经放学，操场很安静。
+The town streets were much as I remembered, only a little narrower.
 
-我站在铁门外，看着那栋旧教学楼。
+Places that had felt huge when I was small now ended in a few steps.
 
-很多年前，我们在那里争第一名。
+I wanted to see him.
 
-我忽然意识到，我真正想见的也许并不是现在的他。
+I asked an old classmate to get in touch, said we hadn’t seen each other in years, would like to have a meal.
 
-而是那个站在黑板前、总是第一名的少年。
+The old classmate was quiet for a moment, said he’d try.
 
-可那个世界，早就已经过去了。
+That night I got a reply.
 
-那条土路，我们曾经一起走过很多遍。
+He said, he wouldn’t see me.
 
-他走在前面，我走在后面。
+The old classmate explained carefully.
 
-我一直在想，为什么赢不了。
+Said it had been so long, we’d all lost touch, so let it be.
 
-那条路现在也许还在。
+I wasn’t angry.
 
-只是走路的人已经散了。
+I only felt something I couldn’t name.
 
+As if a door had closed a long time ago.
+
+And I had only noticed today.
+
+\
+Later I walked alone to the middle school gate.
+
+School was out; the playground was quiet.
+
+I stood outside the iron gate and looked at the old teaching building.
+
+Years ago we had competed for first place there.
+
+I suddenly realized that what I wanted to see was perhaps not him as he was now.
+
+But the boy who stood at the blackboard, always first.
+
+That world had already passed.
+
+We had walked that dirt road together many times.
+
+He in front, I behind.
+
+I was always thinking, why can’t I win.
+
+That road may still be there.
+
+Only the people who walked it have scattered.

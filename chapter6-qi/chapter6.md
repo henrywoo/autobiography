@@ -1,8 +1,8 @@
 # Chapter 6: 旗 {-}
 
-*国庆、天安门*
+*National Day, Tiananmen*
 
-> 旗在风里，人在队伍里。
+> Flags in the wind, people in the ranks.
 - 玄心
 
 **tp_image**
@@ -10,437 +10,437 @@
 ![](img/qi.png){width=70%}
 
 
-## 国庆
+## National Day
 
-一九九九年，国庆。
+Nineteen ninety-nine. National Day.
 
-那一年，北京很热闹。
+That year Beijing was bustling.
 
-建国五十周年。
+The fiftieth anniversary of the founding of the nation.
 
-要举行阅兵和群众游行。
+There would be a parade and mass procession.
 
-学校接到通知。
+The school got the order.
 
-要组织学生方阵。
+To form a student contingent.
 
-我被选进了队伍。
+I was chosen for the ranks.
 
-最开始只是训练。
+At first it was only training.
 
-每天排队形。
-练步伐。
-练口号。
+Every day we lined up.
+Practiced steps.
+Practiced slogans.
 
-操场上画着白线。
+White lines were painted on the sports ground.
 
-我们一排一排站好。
+We stood in row after row.
 
-老师拿着哨子。
+A teacher with a whistle.
 
-在前面喊节奏。
+Called the rhythm from the front.
 
-脚步要整齐。
-胳膊要摆到同一个高度。
+Steps had to be even.
+Arms had to swing to the same height.
 
-队形要像一块移动的方阵。
+The formation had to move like one block.
 
-太阳很大。
+The sun was fierce.
 
-操场的地面被晒得发白。
+The ground baked pale.
 
-我们一遍一遍走。
+We walked again and again.
 
-汗从额头往下流。
+Sweat ran down from our foreheads.
 
-衣服后背很快湿透。
+Our backs were soon soaked.
 
-有人会小声抱怨。
+Some muttered.
 
-说走这么多遍到底有什么用。
+What was the point of walking so many times.
 
-但第二天。
+But the next day.
 
-还是照样来。
+We showed up just the same.
 
-后来训练的地方换到了北京郊外。
+Later the training moved to the outskirts of Beijing.
 
-有时候在昌平。
+Sometimes to Changping.
 
-有时候在大兴。
+Sometimes to Daxing.
 
-每天很早出发。
+We set out very early each day.
 
-大巴从学校门口开出去。
+Buses left from the school gate.
 
-一路往城外走。
+Headed out of the city.
 
-楼慢慢变少。
+Buildings slowly thinned.
 
-路变得更宽。
+The road grew wider.
 
-车里的人一开始还聊天。
+People in the bus chatted at first.
 
-后来大多靠在座位上睡着了。
+Then most leaned back and fell asleep.
 
-操场很大。
+The field was huge.
 
-地面被太阳晒得发白。
+The ground baked pale in the sun.
 
-我们按照地上的白线练步伐。
+We practiced our steps along the white lines.
 
-老师在前面吹哨子。
+The teacher blew the whistle in front.
 
-喊节奏。
+Called the rhythm.
 
-脚步要整齐。
+Steps had to be even.
 
-胳膊要摆到同一个高度。
+Arms to the same height.
 
-太阳很毒。
+The sun was brutal.
 
-练一会儿。
+After a while.
 
-衣服就湿透了。
+Our clothes were soaked.
 
-有人会小声抱怨。
+Some muttered.
 
-但第二天。
+But the next day.
 
-还是照样来。
+We showed up just the same.
 
-那时候。
+Back then.
 
-我们其实不知道自己在准备什么。
+We didn’t really know what we were preparing for.
 
-只知道。
+Only that.
 
-要把队伍走整齐。
+We had to keep the formation even.
 
-与此同时。
+At the same time.
 
 
 \
-学校的合唱团也在准备国庆活动。
+The school chorus was also preparing for National Day.
 
-我正好在合唱团。
+I was in the chorus.
 
-所以有时候。
+So sometimes.
 
-上午练方阵。
+We drilled the formation in the morning.
 
-下午去礼堂排合唱。
+In the afternoon we went to the auditorium for choir rehearsal.
 
-礼堂很安静。
+The auditorium was quiet.
 
-钢琴摆在台上。
+A piano on the stage.
 
-一排一排人站在后面。
+Row after row of people standing behind.
 
-我们已经排过很多次合唱。
+We had already rehearsed many times.
 
-站位、呼吸、进声。
+Position, breath, entrance.
 
-都比较熟。
+We knew it well.
 
-学校请人来指导。
+The school brought in a coach.
 
-有一次。
+Once.
 
-彭丽媛也来过。
+Peng Liyuan came.
 
-她来的时候。
+When she arrived.
 
-整个礼堂忽然安静下来。
+The whole hall went quiet.
 
-她站在台前。
+She stood at the front.
 
-没有什么架子。
+No airs.
 
-说话很温和。
+She spoke gently.
 
-先听我们唱了一段。
+Listened to us sing a passage first.
 
-然后慢慢讲哪里要收一点。
+Then slowly said where to hold back a little.
 
-哪里要放一点。
+Where to let go a little.
 
-她说话不快。
+She didn’t speak fast.
 
-但每一句都很清楚。
+But every word was clear.
 
-她一边说。
+As she spoke.
 
-一边用手轻轻打拍子。
+She beat time lightly with her hand.
 
-让我们跟着唱。
+Having us follow.
 
-我站在队伍里。
+I stood in the ranks.
 
-看着台上的人。
+Watching the figure on stage.
 
-心里有一点恍惚。
+Feeling a little dazed.
 
-那时候她已经很有名。
+By then she was already famous.
 
-我们只在电视里见过。
+We had only seen her on television.
 
-突然有一天。
+Then one day.
 
-她站在你面前。
+She stood in front of you.
 
-像一个普通老师一样。
+Like an ordinary teacher.
 
-给你纠正节奏。
+Correcting your rhythm.
 
-团长站在钢琴旁边。
+The director stood by the piano.
 
-她是彭丽媛的干女儿。
+She was Peng Liyuan’s goddaughter.
 
-平时在学校里。
+Usually at school.
 
-她已经是那种有点遥远的人。
+She was already someone a little out of reach.
 
-到了这种场合。
+On that occasion.
 
-她更像是另一个世界的人。
+She seemed even more from another world.
 
-我们站在她后面。
+We stood behind her.
 
-一排一排唱。
+Singing row after row.
 
-琴声在礼堂里回响。
+The piano echoed in the hall.
 
-声音慢慢叠在一起。
+Voices slowly layered together.
 
-那一刻我忽然觉得。
+In that moment I suddenly felt.
 
-很多原本分散的人和事。
+That many people and things that had been scattered.
 
-好像被一条看不见的线连在了一起。
+Were somehow connected by an invisible thread.
 
-训练持续了很久。
+The training went on a long time.
 
 \
-后来。
+Later.
 
-我们真的去了天安门广场附近排练。
+We really went to rehearse near Tiananmen Square.
 
-不止一次。
+Not just once.
 
-去了好几次。
+Several times.
 
-有时候轮到别的学校彩排。
+Sometimes it was another school’s turn to rehearse.
 
-我们就在旁边等场地。
+We waited for the space by the side.
 
-队伍坐在路边。
+The contingent sat by the road.
 
-有人喝水。
+Some drank water.
 
-有人靠在背包上。
+Some leaned on their bags.
 
-也有人什么都不说。
+Some said nothing.
 
-就那样看着广场。
+Just looked at the square.
 
-天安门城楼在远处。
+The Gate of Heavenly Peace in the distance.
 
-红墙。
+Red walls.
 
-黄瓦。
+Yellow tiles.
 
-阳光落在上面。
+Sunlight falling on them.
 
-广场很大。
+The square was vast.
 
-风从长安街那边吹过来。
+Wind blew from the direction of Chang’an Avenue.
 
-等得久了。
+When we had waited long enough.
 
-大家就开始聊天。
+People started to chat.
 
-我和系里合唱团的几个同学坐在一起。
+I sat with a few chorus friends from my department.
 
-也没什么事干。
+Nothing to do.
 
-就一人一句唱歌。
+So we sang, line by line.
 
-唱的不是排练的歌。
+Not the rehearsal songs.
 
-是流行歌。
+Pop songs.
 
-「最近比较烦。」
+“Recently I’ve been rather troubled.”
 
-有人唱一句。
+Someone sang a line.
 
-另一个人接一句。
+Another took the next.
 
-慢慢几个人都跟着唱。
+Slowly everyone joined in.
 
-声音不大。
+Not loud.
 
-像是在聊天。
+Like talking.
 
-那时候。
+Back then.
 
-我们好像总觉得自己有很多烦恼。
+We always felt we had so many troubles.
 
-功课。
+Grades.
 
-未来。
+The future.
 
-还有很多说不清的事情。
+And many things we couldn’t name.
 
-很多年以后。
+Only years later.
 
-我才慢慢明白。
+Did I slowly understand.
 
-其实那段时间。
+That that period.
 
-是人生最不烦的时候。
+Was when life was least troubled.
 
 
 
 
-## 检阅
+## The Review
 
-真正游行那天。
+The day of the actual parade.
 
-天很晴。
+The sky was clear.
 
-阳光照在街上。
+Sunlight on the street.
 
-路面微微发亮。
+The pavement glinted slightly.
 
-我们站在队伍里。
+We stood in the ranks.
 
-等着轮到自己的那一段。
+Waiting for our segment.
 
-远处有音乐声。
+Music came from the distance.
 
-不是一首歌。
+Not a single song.
 
-而是一整片声音。
+But a whole field of sound.
 
-从很远的地方传过来。
+Carried from far away.
 
-广播里不时传来指挥的声音。
+From time to time the broadcast gave orders.
 
-队伍站在那里。
+The ranks stood.
 
-一排一排。
+Row after row.
 
-大家都没有说话。
+No one spoke.
 
-后来。
+Then.
 
-江主席来检阅我们。
+Chairman Jiang came to review us.
 
-队伍一下子更安静了。
+The ranks went even quieter.
 
-我站在里面。
+I stood inside.
 
-看着他慢慢经过。
+Watching him pass slowly.
 
-比我想象中更魁梧一些。
+More imposing than I had imagined.
 
-脸其实看不太清。
+I couldn’t really see his face clearly.
 
-但我知道。
+But I knew.
 
-那就是国家领导人。
+That was the nation’s leader.
 
-阳光从上面照下来。
+Sunlight came from above.
 
-影子落在地面上。
+Shadows fell on the ground.
 
-队伍没有动。
+The ranks did not move.
 
-每个人都站得很直。
+Everyone stood straight.
 
-所有事情都像被一种巨大的节奏定在那里。
+Everything seemed fixed by a vast rhythm.
 
-旗在风里。
+Flags in the wind.
 
-人在人群里。
+People in the crowd.
 
-长安街很长。
+Chang’an Avenue was long.
 
-那一刻我忽然意识到一件事。
+In that moment I suddenly realized something.
 
-电视里看到的画面。
+What you saw on television.
 
-现在就在自己眼前。
+Was now right in front of you.
 
-那条街。
+That street.
 
-那些旗。
+Those flags.
 
-那些人。
+Those people.
 
-都是真的。
+Were real.
 
-我们从城楼前走过去。
+We walked past the gate tower.
 
-队伍继续往前。
+The ranks moved on.
 
-音乐声渐渐远了。
+The music slowly faded.
 
-人群的声音也慢慢散开。
+The sound of the crowd scattered.
 
-等到整个方阵走完。
+When the whole contingent had passed.
 
-大家才松了一口气。
+Everyone relaxed.
 
-有人悄悄笑。
+Some smiled quietly.
 
-有人小声说话。
+Some spoke in low voices.
 
-还有人回头看刚才走过的地方。
+Some looked back at where we had just walked.
 
-那一刻没有人说什么大词。
+In that moment no one spoke in grand words.
 
-也没有人讨论历史。
+No one discussed history.
 
-我们只是觉得。
+We only felt.
 
-自己刚刚参与了一件很大的事情。
+That we had just taken part in something very large.
 
-很多年以后。
+Years later.
 
-我还会想起那一天。
+I still think of that day.
 
-不是想起口号。
+Not the slogans.
 
-也不是想起电视里的画面。
+Not the images on television.
 
-我记得的是阳光。
+I remember the sunlight.
 
-记得长安街很宽。
+I remember how wide Chang’an Avenue was.
 
-记得脚步声在地面上一排一排连起来。
+I remember footsteps linking in row after row on the ground.
 
-记得红旗在风里动。
+I remember red flags moving in the wind.
 
-也记得自己站在队伍里。
+I remember standing in the ranks.
 
-忽然有一种很奇怪的感觉。
+And a strange feeling coming over me.
 
-国家。
+Nation.
 
-时代。
+Era.
 
-自己。
+Self.
 
-好像被一条看不见的线串在了一起。
+As if strung together by an invisible thread.
 
-那时候我才第一次隐约明白。
+Only then did I begin to understand, faintly.
 
-一个人的青春。
+That a person’s youth.
 
-并不只属于自己。
+Does not belong only to oneself.
 
-有时候。
+Sometimes.
 
-它也属于那个时代。
+It also belongs to that era.

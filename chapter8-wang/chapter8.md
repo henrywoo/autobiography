@@ -1,390 +1,389 @@
 # Chapter 8: 网 {-}
 
-*丁磊、网易、云层*
+*Ding Lei, NetEase, Clouds*
 
-> 云层之上无风雨。
+> Above the clouds there is no wind or rain.
 - 玄心
 
 **tp_image**
 
 ![](img/wang.png){width=50%}
 
-## 天空
+## Sky
 
-SMA 的课程快要结束的时候，大家开始讨论一个问题。
+When the SMA program was nearing its end, everyone began discussing one question.
 
-工作，还是读博士。
+Work, or a doctorate.
 
-很多同学已经联系好了教授，有人准备去美国，有人打算留在新加坡做研究。
+Many classmates had already contacted professors; some were heading to the United States, some planned to stay in Singapore for research.
 
-教室里常常能听见这些话题：申请、推荐信、实验室、funding。
+In the classroom you often heard: applications, recommendation letters, labs, funding.
 
-我坐在旁边听着，却没有什么真实的感觉。
+I sat and listened but had no real sense of it.
 
-在学校待了快二十年，我对工作几乎一无所知。
+After almost twenty years in school I knew almost nothing about work.
 
-甚至不知道，人为什么要工作。
+I didn’t even know why people worked.
 
-之前的师兄师姐，大多是国家分配。
+Earlier graduates had mostly been assigned by the state.
 
-毕业以后去研究所、大学、部委，一切都已经安排好。
+After graduation they went to research institutes, universities, ministries—everything was arranged.
 
-我们这一届不一样。
+Our cohort was different.
 
-国家不再包分配，每个人都要自己找路。
+The state no longer assigned jobs; everyone had to find their own path.
 
-那时候我一边联系教授，准备读博士；
+I was both contacting professors to prepare for a doctorate
 
-一边又听同学介绍，说新加坡有研究所招工程师。
+and hearing from classmates that research institutes in Singapore were hiring engineers.
 
-两条路都摆在面前。
+Both paths lay in front of me.
 
-但我其实并不着急。
+But I wasn’t in a hurry.
 
-那段时间，我在国大[^wang-nus]待得很闲。
+In that period I was quite idle at NUS[^wang-nus].
 
-课不多，实验也不多。
+Not many classes, not much lab work.
 
-白天在校园里晃一晃，晚上回宿舍上网。
+By day I wandered campus; at night I went back to the dorm and went online.
 
-新加坡的夜很安静，宿舍楼外面常常只有风声和远处公路的车声。
+Singapore’s nights were quiet; outside the dorm there was often only the wind and the sound of the highway in the distance.
 
-实在无聊的时候，我就写点东西。
+When I was really bored I wrote a bit.
 
-写技术，也写一些零碎的想法。
+About technology, and scattered thoughts.
 
-那时候互联网刚刚热起来。
+The internet was just taking off then.
 
-很多人开始把文章放到网上，也不知道会被谁看到。
+Many people began putting writing online, not knowing who would see it.
 
-我在 CSDN 上写过一些技术帖子，有时候还会被推到首页。
+I wrote some technical posts on CSDN; sometimes they made the front page.
 
-慢慢也有一些读者，给我留言、发邮件。
+Gradually I had readers who left comments and sent email.
 
-那种感觉有点奇怪。
+The feeling was a little strange.
 
-你坐在一个很小的房间里，对着一块发光的屏幕敲键盘。
+You sat in a small room, typing at a glowing screen.
 
-就像投个漂流瓶到海里，不知道这些文字会跑到哪里去。
+Like sending a message in a bottle—you didn’t know where those words would go.
 
 \
-有一天晚上，我像往常一样在宿舍上网。
+One night I was online in the dorm as usual.
 
-电脑屏幕亮着，桌子上只有一盏台灯。
+The screen glowed; only a desk lamp on the table.
 
-外面的走廊已经很安静，同寝室的人都睡了。
+The corridor outside was already quiet; my roommates were asleep.
 
-那时候还没有微信。
+There was no WeChat yet.
 
-很多人用的是 MSN。
+Many people used MSN.
 
-我一边看网页，一边刷邮件。
+I was browsing and checking email.
 
-忽然，屏幕右下角弹出一个小窗口。
+Suddenly a small window popped up in the corner of the screen.
 
-有人加我为好友。
+Someone had added me as a contact.
 
-名字只有两个字：
+The name was only two characters:
 
-天空。
+Sky.
 
-头像是一个大肚皮的财主，笑得有点夸张。
+The avatar was a pot-bellied rich man with an exaggerated smile.
 
-我以为是谁随便加人。
+I thought it was a random add.
 
-过了一会儿，对方发来一句话：
+After a moment the other person sent a message:
 
-“我看过你写的文章。”
+“I’ve read what you wrote.”
 
-我没有马上回。
+I didn’t reply right away.
 
-那时候在网上认识陌生人很常见，很多人只是随便聊几句。
+Meeting strangers online was common then; many people just chatted a few lines.
 
-过了大概半分钟，对方又发来一句：
+About half a minute later they sent another message:
 
-“我是丁磊。”
+“I’m Ding Lei.”
 
-他说，他最近在看 Python 的东西.
+He said he had been looking into Python lately.
 
-想让我整理一下Python的开源项目。
+Wanted me to put together a list of Python open-source projects.
 
-那时候 Python 还没有现在这么流行。
+Python wasn’t as popular then as it is now.
 
-国内很多程序员还在用 C++ 或 Java，Python 很少有人谈。
+Many programmers in China still used C++ or Java; few talked about Python.
 
-我一开始并不确定他说的是真是假。
+At first I wasn’t sure he was telling the truth.
 
-于是我打开浏览器去搜索这个名字。
+So I opened the browser and searched the name.
 
-那时候 谷歌 收录的网页并不多，搜索也没有现在这么方便。
+Google didn’t index many pages then; search wasn’t as easy as now.
 
-我翻了几页，才慢慢看明白。
+I went through several pages before I understood.
 
-这个人，是网易的老板。
+This person was the founder of NetEase.
 
-看起来不像是在开玩笑。
+It didn’t look like a joke.
 
-第二天，我把所有和Python有关的页面几乎都手动翻了一遍。
+The next day I went through almost every Python-related page by hand.
 
-那时候关于 Python 的资料其实并不多。
+There wasn’t much material on Python then.
 
-开源项目、邮件列表、论坛帖子，我一条一条看过去，再慢慢整理。
+Open-source projects, mailing lists, forum posts—I went through them one by one and organized them.
 
-整理完以后，我把列表发给了他。
+When I was done I sent him the list.
 
-他很快回了一句：
+He replied quickly:
 
-“不错。”
+“Not bad.”
 
-我不确定他有没有真的把那些东西看完。
+I wasn’t sure if he had really read through it.
 
-但后来我才知道，那个人是当年的中国首富。
+But I learned later that this person was China’s richest man at the time.
 
-那一年大概是二〇〇三年前后。
+That was around 2003.
 
-我二十三岁，他三十二岁。
+I was twenty-three; he was thirty-two.
 
-后来他问我愿不愿意去网易。
+Later he asked if I would like to join NetEase.
 
-其实那时候工作并不难找。
+Finding a job wasn’t actually hard then.
 
-真正让我困扰的，是另一件事。
+What really troubled me was something else.
 
-我还没有女朋友。
+I still didn’t have a girlfriend.
 
-家里的观念很简单：
+My family’s view was simple:
 
-读书的时候绝对不能谈恋爱，毕业以后却希望马上抱孙子。
+Absolutely no dating while studying, but they hoped for a grandchild as soon as I graduated.
 
-我对丁磊说：
+I said to Ding Lei:
 
-如果能给我介绍个女朋友，我就去。
+If you can introduce me to a girlfriend, I’ll come.
 
-没想到他居然答应了。
+I didn’t expect him to agree.
 
-还说可能是南航的空姐。
+He even said it might be a flight attendant from China Southern.
 
-那几天我甚至有点睡不好觉。
+For a few days I could hardly sleep.
 
-那时候我还没有真正经历过职场.
+I hadn’t really experienced the workplace yet.
 
-他也还是一个刚从创业早期走出来的人。
+He was also someone who had just emerged from the early days of startup life.
 
-很多事情都还带着一点随意。
+A lot of things still had a casual feel.
 
-于是我们就这样说定了。
+So we settled it that way.
 
 
-## 广州
+## Guangzhou
 
-网易的总部那时候在广州天河工业园。
+NetEase’s headquarters were in Guangzhou’s Tianhe Industrial Park then.
 
-到了公司以后，丁磊带我在办公室里转了一圈。
+When I arrived Ding Lei showed me around the office.
 
-他还把我介绍给了当时的COO麦克。
+He also introduced me to the COO at the time, Mike.
 
-那天是周末，我带着自己的笔记本电脑。
+It was the weekend; I had brought my own laptop.
 
-公司那几年发展很快，人一批一批进来，很多事情都还没完全安排好。
+The company was growing fast in those years; people were joining in waves and much wasn’t fully in place yet.
 
-我一时没有工位。
+I didn’t have a desk at first.
 
-丁磊想了想，说：
+Ding Lei thought for a moment and said:
 
-那你先坐我办公室吧。
+Then sit in my office for now.
 
-我以为只是随口一说。
+I thought it was just a throwaway line.
 
-结果他们真的把我带去了总裁办公室。
+But they really took me to the CEO’s office.
 
-房间不大。
+The room wasn’t large.
 
-一张桌子，一台电脑，几把椅子。
+A desk, a computer, a few chairs.
 
-墙上挂着一幅字。
+On the wall hung a piece of calligraphy.
 
-五个字：
+Five characters:
 
-“云层之上无风雨。”
+“Above the clouds there is no wind or rain.”
 
-我就坐在那里上网、写代码。
+I sat there going online and writing code.
 
-有时候抬头，就能看见那幅字。
+Sometimes I looked up and saw those characters.
 
 \
-丁磊其实很低调，低调到有些员工甚至不认识他。
+Ding Lei was actually very low-key—so much so that some employees didn’t even recognize him.
 
-有一次我在办公室写代码，进来一个打扫卫生的阿姨。
+Once I was writing code in the office when a cleaning lady came in.
 
-我站起来让她打扫桌子下面。
+I stood up so she could clean under the desk.
 
-她说：
+She said:
 
-你是老板，不用站起来。
+You’re the boss; you don’t need to stand.
 
-我说我不是。
+I said I’m not.
 
-这里的老板叫丁磊，中国首富。
+The boss here is Ding Lei, China’s richest man.
 
-她听了以后摇摇头，说她不认识。
+She shook her head and said she didn’t know him.
 
-我当时有点愣住。
+I was a bit taken aback.
 
-后来想想，这件事其实也很正常。
+Later I thought it was actually quite normal.
 
-总之，我成了“总裁办公室里的程序员”。
+In any case I became “the programmer in the CEO’s office.”
 
-後來，在公司的系统里，我的职位写得很正式：
+Later, in the company system, my title was written formally:
 
-总裁办高级软件工程师。
+Senior Software Engineer, CEO Office.
 
-我喜歡這個有特色的名字。
-
-\
-丁磊很少真正坐在办公室里。
-
-他经常在公司各个地方转。
-
-有时候在游戏部门，有时候在会议室。
-
-很多时候，已经很晚了，他还在公司。
-
-有一次我晚上还在楼里，看见他从会议室出来。
-
-走廊很安静，只剩下一些电脑屏幕的光。
-
-还有一天下午，我们一起出去吃饭。
-
-不是去什么特别的地方，只是工业园附近的一家小苍蝇馆子。
-
-广州的空气有点热。
-
-我们坐在门口的塑料凳上。
-
-靠近门口有一口大锅，老板在下面条。
-
-热气一阵一阵往外冒，混着酱油和葱花的味道。
-
-丁磊穿得很普通，和在公司时差不多。
-
-我们各要了一碗面。
-
-他问我习不习惯广州，我说还行。
-
-他又说，公司现在人多了，很多事情他管不过来，你好好做就行。
-
-话不多。
-
-面吃得很慢。
-
-旁边有几桌人，大声说着粤语，我们这边反而很安静。
-
-吃完以后，我抢着把单买了。
-
-他是首富。
-
-但我觉得这顿饭应该我请。
-
-他也没有和我争，只是说了声谢谢。
-
-然后我们一起往回走。
-
-两个人并排走，但谁也没有再提公司的事。
-
-那是我第一次和他在公司外面吃饭。
-
-也是印象最深的一次。
-
-后来他让我做游戏。
-
-那几年网易的游戏刚刚开始起来，很多人挤破头去做。
-
-但我当时觉得，自己是研究生毕业，去做游戏好像有点“不务正业”。
-
-现在回头看，这个想法其实很幼稚。
-
-那时候我还想继续读书。
-
-有一次我跟他说，我想出国读博士。
-
-他直接回了句：
-
-书读多了没用。
-
-我当时也认同。
-
-毕竟他只是本科毕业，却做出了这么大的事业。
-
-于是我也没有再继续申请。
-
-关于介绍女朋友，我几次想问他，但發現當面不太好意思開口。
-
-尤其公司人那麼多的時候。
-
-过了几天，公司有人来找我，说安排我见一个人。
-
-见面以后我才发现，是一位似乎比我还小点的女上司。
-
-我当时以为，这大概就是他给我介绍的人。
-
-过了段时间才知道，人家早就已经结婚了。
-
-那时候我有点生气。
-
-觉得他说话不算数。
-
-现在回头看，那时候我其实很不成熟。
-
-我把公司当成了学校了。
+I liked that distinctive name.
 
 \
-我在网易待的时间不算很长。
+Ding Lei rarely actually sat in the office.
 
-那几年我一直在想一个问题：
+He often moved around the company.
 
-人为什么要工作。
+Sometimes in the game department, sometimes in meeting rooms.
 
-不是为了挣钱，而是更深一点的东西。
+Often when it was already late he was still there.
 
-我总觉得，世界应该更大一点。
+Once I was still in the building at night and saw him come out of a meeting room.
 
-所以后来我离开了网易。
+The corridor was quiet; only the glow of some screens.
 
-离开的时候，没有什么特别的场面。
+Another afternoon we went out to eat together.
 
-我对丁磊说，三年以后再回来。
+Nothing special—just a small hole-in-the-wall near the industrial park.
 
-他抽了口雪茄，点头说好。
+The air in Guangzhou was warm.
 
-我收拾好东西，从办公室走出来。
+We sat on plastic stools by the door.
 
-走廊还是一样安静。
+Near the entrance was a large pot; the owner was cooking noodles.
 
-很多人还在写代码。
+Steam rose in waves, mixed with the smell of soy sauce and scallions.
 
-很多事情还在继续。
+Ding Lei was dressed plainly, much as he was at the office.
 
-但有一件东西留在了我心里。
+We each ordered a bowl of noodles.
 
-那就是那幅字。
+He asked if I was getting used to Guangzhou; I said it was okay.
 
-云层之上无风雨。
+He said the company had grown, there was a lot he couldn’t manage, just do your job well.
 
-很多年以后，我还会想起那间办公室。
+Not much talk.
 
-想起我坐在那里写代码，偶尔抬头，看见墙上的那五个字。
+We ate slowly.
 
-互联网把我带进了那间办公室。
+At nearby tables people were speaking Cantonese loudly; we were quiet.
 
-后来又把我带去了很多地方。
+When we finished I insisted on paying.
 
-但那幅字，一直没有离开过。
+He was the richest man in the country.
 
-[^wang-dinglei]: 丁磊，网易创始人，2003 年前后曾为中国首富。
+But I felt this meal should be on me.
 
-[^wang-flash]: Flash，Adobe 推出的多媒体创作与播放平台，2000 年代曾广泛用于网页动画、游戏与互动内容，2020 年底已停止更新与支持。
+He didn’t argue, just said thanks.
 
-[^wang-msn]: MSN Messenger（后更名为 Windows Live Messenger），微软推出的即时通讯软件，2000 年代在中国及全球广泛使用，2013 年除中国大陆外多数地区已关闭，2014 年中国大陆服务亦停止。
+Then we walked back together.
 
-[^wang-nus]: 新加坡国立大学 National University of Singapore。
+Side by side but neither of us brought up work.
 
+That was the first time I ate with him outside the company.
+
+And the time that left the deepest impression.
+
+Later he had me work on games.
+
+In those years NetEase’s games were just taking off; many people were scrambling to get in.
+
+But I felt then that as a graduate student, doing games seemed a bit “not one’s proper business.”
+
+Looking back, that was rather naive.
+
+I still wanted to keep studying.
+
+Once I told him I wanted to go abroad for a doctorate.
+
+He said directly:
+
+Too much schooling is useless.
+
+I agreed at the time.
+
+After all he had only an undergraduate degree and had built something so large.
+
+So I didn’t apply again.
+
+About the girlfriend introduction I wanted to ask him several times, but found it hard to bring up in person.
+
+Especially with so many people around.
+
+A few days later someone from the company came and said they had arranged for me to meet someone.
+
+When we met I found it was a female supervisor who seemed a bit younger than me.
+
+I thought at the time that this must be the person he had introduced.
+
+Some time later I learned she had already been married for a long time.
+
+I was a bit angry then.
+
+Felt he hadn’t kept his word.
+
+Looking back, I was actually very immature.
+
+I had treated the company like school.
+
+\
+I wasn’t at NetEase very long.
+
+In those years I kept wondering:
+
+Why do people work.
+
+Not for money—something deeper.
+
+I always felt the world should be a bit larger.
+
+So later I left NetEase.
+
+When I left there was no big scene.
+
+I said to Ding Lei, I’ll be back in three years.
+
+He took a draw on his cigar and nodded.
+
+I packed my things and walked out of the office.
+
+The corridor was as quiet as ever.
+
+Many people were still writing code.
+
+Many things went on.
+
+But one thing stayed with me.
+
+Those characters on the wall.
+
+Above the clouds there is no wind or rain.
+
+Years later I still think of that office.
+
+Of sitting there writing code, looking up now and then at those five characters on the wall.
+
+The internet had brought me into that office.
+
+Later it took me to many other places.
+
+But those characters never left.
+
+[^wang-dinglei]: Ding Lei, founder of NetEase; around 2003 he was among China’s richest.
+
+[^wang-flash]: Flash, Adobe’s multimedia authoring and playback platform; widely used in the 2000s for web animation, games, and interactive content; support ended in late 2020.
+
+[^wang-msn]: MSN Messenger (later Windows Live Messenger), Microsoft’s instant-messaging software; widely used in China and globally in the 2000s; discontinued in most regions in 2013 and in mainland China in 2014.
+
+[^wang-nus]: National University of Singapore.

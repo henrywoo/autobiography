@@ -1,41 +1,41 @@
 # Preface
 
 
-我对“我”的最早记忆，大约在两岁。
+My earliest memory of “I” is from around age two.
 
-那是断奶的时候。
+That was when I was weaned.
 
-我哭得几乎无法呼吸。
+I cried until I could hardly breathe.
 
-也许正因为哭得太厉害，这段记忆竟然留了下来。
+Perhaps because I cried so hard, that memory stayed.
 
-现在回想起来，那或许是我第一次真正意识到“我”的存在。
+Looking back now, it may have been the first time I truly became aware of “I.”
 
-在那之前，我仿佛只是这个世界的一部分。
+Before that I seemed only part of the world.
 
-从那一天开始，我成了一个独立的人。
+From that day on I became a separate person.
 
 ——
 
-我对“美”的最早记忆，是雪。
+My earliest memory of “beauty” is snow.
 
-满世界纯净的白。
+A world of pure white.
 
-那是我第一次看到雪。
+The first time I saw snow.
 
-我穿着一件红色的背袄，被人抱在怀里。
+I was wearing a red vest, held in someone’s arms.
 
-整个世界安静得出奇。
+The whole world was strangely quiet.
 
-我不记得是谁抱着我，也不记得那是哪一年。
+I don’t remember who held me, or what year it was.
 
-我只记得自己被那漫无边际的白震住了。
+I only remember being stunned by that boundless white.
 
-仿佛整个世界都被雪覆盖。
+As if the whole world were covered in snow.
 
-那一刻，我忽然意识到，
+In that moment I suddenly realized
 
-世界原来这么大。
+how large the world was.
 
 
 ```{=latex}

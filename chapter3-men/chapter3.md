@@ -1,135 +1,133 @@
 # Chapter 3: 门 {-}
 
-*中考落榜、鲤鱼跃龙门*
+*Failed the exam, then the dragon gate*
 
-> 有些门，一生只开一次。
+> Some doors open only once in a lifetime.
 - 玄心
 
 **tp_image**
 
 ![](img/men.png){width=70%}
 
-## 落榜
+## Failed
 
-中考放榜那天，我心裏很忐忑。
+The day the high school entrance results came out I was on edge.
 
-爸妈想让我读中专或师范，早点出来工作，家里也轻松一点。
+My parents wanted me to go to technical school or teacher training, start work early, ease things at home.
 
-我心里想读大学，但没说。
+I wanted to go to university but didn’t say it.
 
-我的分数在我们那几个区里都是最高的，高出第二名几十分。
+My score was the highest in our districts, dozens of points above second place.
 
-但是，我落榜了。
-
-\
-我們後來知道，我報考的那幾個學校，
-
-在全省只招一两个人，而且都是是内招。
-
-我父母不是系統內部員工，所以我沒有資格。
-
-当时大家都觉得完了。
-
-我心里却还想，也许还能读高中。
-
-但因为等中专的录取通知，
-
-我错过了高中的录取时间。
-
-结果中专没录取，高中也过了。
-
-一下子，没有书读了。
-
-后来我爸說，實在不行就去和豐中學.
-
-雖然是普通高中，每年還是有考進大學的。
-
-我苦笑了一下，也不知道该说什么。
-
-再后来有个消息说，简阳中学也許还能进。
-
-那是我們市的省重點中學。
-
-但是名额已经满了，要进得再交一笔钱，一千多块。
-
-对我们家来说，那是一大笔钱。
-
-我们拿不出来。
-
-那段时间家里气氛很沉。
-
-飯擺在桌子上都涼了也不見爸吃。
-
-好像路已经断了。
-
-
-## 校門
-
-我爸那時候幾天不在家。
-
-媽說他在外面到處找人借錢。
-
-借錢哪有那麼簡單？
-
-我告訴我妈，
-
-快叫爸回来吧，
-
-實在不行，我就去上普通高中。
-
-那幾天感覺像過了半年。
-
-我什么也不想，每天只是等。
-
-终于有了新消息。
-
-我爸有个同学。
-
-她的丈夫当时在简阳中学建新校门，工地上管钱。
-
-后来不知道他们怎么说的。
-
-那笔建校门的钱里，拿出了一千块。
-
-说是奖学金。
+But I didn’t get in.
 
 \
-我就这样进了简阳中学。
+We learned later that the schools I had applied to
 
-进去以后才知道，
+took only one or two students for the whole province, and those were internal slots.
 
-我其实是全市第二名，班里的第一。
+My parents weren’t in the system, so I wasn’t eligible.
 
-只是当时，
+Everyone thought it was over.
 
-是以“落榜生”的名义，交了一笔额外的钱，才跨进那道门。
+I still thought maybe I could go to high school.
+
+But waiting for the technical-school notice
+
+made me miss the high school deadline.
+
+So no technical school, and high school had passed too.
+
+Suddenly there was no school to go to.
+
+Later my father said that if nothing else I could go to Hefeng Middle School.
+
+It was an ordinary high school, but every year some did get into university.
+
+I smiled bitterly and didn’t know what to say.
+
+Then word came that Jianyang Middle School might still take me.
+
+That was our city’s provincial key school.
+
+But the places were full; to get in you had to pay extra—over a thousand yuan.
+
+For our family that was a lot of money.
+
+We didn’t have it.
+
+For a while the mood at home was heavy.
+
+The food sat on the table until it was cold and still my father didn’t eat.
+
+As if the road had already ended.
+
+
+## The gate
+
+My father was away for several days.
+
+Mother said he was out trying to borrow money.
+
+Borrowing money was never simple.
+
+I told my mother,
+
+tell Dad to come back,
+
+if it doesn’t work I’ll just go to the ordinary high school.
+
+Those few days felt like half a year.
+
+I didn’t think about anything; I just waited.
+
+At last there was news.
+
+My father had a classmate.
+
+Her husband was then building the new gate at Jianyang Middle School and was in charge of money on the site.
+
+I don’t know how they worked it out.
+
+From the funds for that gate they took out a thousand yuan.
+
+They called it a scholarship.
+
+\
+That was how I got into Jianyang Middle School.
+
+Only after I was in did I learn
+
+I had actually been second in the whole city, first in my class.
+
+But at the time
+
+I had crossed that gate as a “failed candidate” who paid an extra sum.
+
+\
+Where I’m from we say:
+
+if you get into Jianyang Middle School,
+
+you already have one foot in university.
+
+For kids from poor families
+
+that gate is the one.
+
+Outside the gate: the town and the fields.
+
+Inside: another kind of possibility.
 
 
 \
-我们那里有个说法：
+Later I often passed through that school gate.
 
-进了简阳中学，
+Every time I thought of that thousand yuan.
 
-就等于半只脚进了大学。
+The gate was built for many people.
 
-对寒门子弟来说，
+But that year
 
-那是一道门。
-
-门外面，是小镇和庄稼。
-
-门里面，是另一种可能。
-
-
-\
-后来我常常经过那道校门。
-
-每次都会想起那一千块钱。
-
-那扇门是给很多人修的。
-
-但那一年，
-
-有一块砖，是留给我的。
-
+one of the bricks was for me.
 

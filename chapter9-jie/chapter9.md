@@ -1,8 +1,8 @@
 # Chapter 9: 街 {-}
 
-*华尔街、新交所交易员*
+*Wall Street, SGX Trader*
 
-> 街是另一种河，数字在流，人在走。
+> The street is another kind of river; numbers flow, people walk.
 - 玄心
 
 **tp_image**
@@ -10,152 +10,152 @@
 ![](img/jie.png){width=100%}
 
 
-## 华尔街
+## Wall Street
 
-离开网易以后，我开始在金融市场里工作。
+After leaving NetEase I began working in financial markets.
 
-后来我进了一家对冲基金。
+Later I joined a hedge fund.
 
-那家公司在新加坡有一个办公室，名字叫WorldQuant。
+The firm had an office in Singapore called WorldQuant.
 
-很多人不知道它，但在量化交易的圈子里，它很有名。
+Many people don’t know it, but in quantitative trading circles it’s well known.
 
-我在那里做交易系统。
+I built trading systems there.
 
-办公室不大，但屏幕很多。
+The office wasn’t large but there were many screens.
 
-每个人桌上都有几块显示器，上面是价格、曲线、订单和各种数字。
+Everyone had several monitors: prices, curves, orders, numbers.
 
-市场开的时候，数字不停地跳。
+When the market was open the numbers jumped nonstop.
 
-红的，绿的，一秒一秒往前走。
+Red, green, ticking forward second by second.
 
-有时候只是几秒钟，盈亏就会跳很多。
+Sometimes in just a few seconds profit and loss would swing wildly.
 
-我负责整个亚太区的交易的执行，从新西兰到印度。
+I was responsible for execution across the whole Asia-Pacific, from New Zealand to India.
 
-那时候我们的系统跑得很快。
+Our systems were fast then.
 
-有时候屏幕上的盈亏每秒钟会变动上千万美元。
+Sometimes the P&L on screen would move by tens of millions of dollars per second.
 
-开始的时候，数字往上跳的时候，人有一点兴奋；往下跳的时候，人会忽然很安静。
+At first when the numbers went up you felt a little excited; when they went down you went very quiet.
 
-慢慢你就习惯了。
+Gradually you got used to it.
 
-钱在屏幕上变成数字。
+Money became numbers on the screen.
 
-数字在屏幕上跳动。
+Numbers jumping on the screen.
 
-有时候几百万、几千万，只是一个闪过去的变化。
+Sometimes millions, tens of millions—just a flicker of change.
 
-老板叫Igor。
+The boss was called Igor.
 
-他是俄罗斯人，说话不多，但做事情很干脆。
+He was Russian, didn’t talk much, but was very decisive.
 
-他一般在美国。
+He was usually in the United States.
 
-来新加坡的时候，他会带大家去吃饭。
+When he came to Singapore he would take everyone to dinner.
 
-出手极为大方。
+Extremely generous.
 
-有一次我们去一家旋转餐厅。
+Once we went to a revolving restaurant.
 
-那是新加坡很有名的一家餐厅。
+A famous one in Singapore.
 
-在很高的楼上。
+High up in a tall building.
 
-餐厅慢慢转，整座城市在窗外一点一点移动。
+The restaurant turned slowly; the whole city moved bit by bit outside the window.
 
-桌上摆着鱼翅、燕窝，还有很多我以前没吃过的东西。
+On the table were shark fin, bird’s nest, and many things I had never eaten before.
 
-CTO叫Mark。
+The CTO was called Mark.
 
-有一次他来新加坡，晚上大家一起喝酒。
+Once when he came to Singapore we all had drinks in the evening.
 
-服务员端来一瓶红酒，说三千美金一瓶。
+The waiter brought a bottle of red wine and said three thousand dollars a bottle.
 
-我们开了几瓶不知道。
+I don’t know how many bottles we opened.
 
-我那时候还年轻，对这些事情有一点不真实的感觉。
+I was still young then; it all felt a bit unreal.
 
-白天在办公室看屏幕。
+By day in the office watching screens.
 
-晚上在高楼里吃饭。
+By night eating in a tall building.
 
-城市在窗外慢慢转。
+The city turning slowly outside the window.
 
-但交易的时候，世界又完全不同。
+But when the market was trading, the world was completely different.
 
-市场开盘以后，所有人都盯着屏幕。
+After the open everyone stared at the screens.
 
-电话会响。
+Phones would ring.
 
-键盘会响。
+Keyboards would clatter.
 
-有时候只是几秒钟，一个决定就做完了。
+Sometimes in just a few seconds a decision was made.
 
-很多钱在不同的市场之间流动。
+A lot of money moved between markets.
 
-东京。
+Tokyo.
 
-香港。
+Hong Kong.
 
-新加坡。
+Singapore.
 
-伦敦。
+London.
 
-纽约。
+New York.
 
-地球转一圈，交易也转一圈。
+The earth turns once; trading turns once.
 
-那几年我经常在夜里离开办公室。
+In those years I often left the office at night.
 
-新加坡的街很干净。
+Singapore’s streets were clean.
 
-高楼很多。
+Many tall buildings.
 
-港口在远处，一排一排船停在那里。
+The port in the distance, rows of ships moored there.
 
-海风有一点咸味。
+The sea breeze had a slight salt smell.
 
-有时候我会忽然想起很远的事情。
+Sometimes I would suddenly think of things far away.
 
-想起山里的泉水。
+The spring in the mountains.
 
-想起溪边那块被人搬走的石头。
+The stone by the stream that was later carried off.
 
-也想起广州那间办公室里的那幅字。
+And those characters in the office in Guangzhou.
 
-「云层之上无风雨。」
+“Above the clouds there is no wind or rain.”
 
-金融市场和那些东西很不一样。
+Financial markets were nothing like those things.
 
-这里是数字。
+Here it was numbers.
 
-是价格。
+Prices.
 
-是风险。
+Risk.
 
-但路就是这样，一段一段往前走。
+But the path is like that—you walk it stretch by stretch.
 
-网易是网。
+NetEase was the net.
 
-华尔街是街。
+Wall Street was the street.
 
-新加坡也是一条街。
+Singapore was also a street.
 
-你在不同的城市，不同的楼里，不同的时区里，做不同的事情。
+You are in different cities, different buildings, different time zones, doing different things.
 
-但人还是同一个人。
+But the person is still the same.
 
-街教会我的事情其实很简单：
+What the street taught me was simple:
 
-世界很大。
+The world is large.
 
-大到可以容下很多种活法。
+Large enough to hold many ways of living.
 
-世界很大。
+The world is large.
 
-换一条街，
+Change streets,
 
-人生就会不一样。
+and life changes.
