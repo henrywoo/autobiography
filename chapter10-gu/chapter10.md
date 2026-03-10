@@ -116,7 +116,7 @@ But it hadn’t yet become the center of the whole industry
 
 the way it did later.
 
-The company sent me to 谷歌 for training.
+The company sent me to谷歌for training.
 
 A full week.
 
