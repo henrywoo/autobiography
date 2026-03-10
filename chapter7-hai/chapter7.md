@@ -303,7 +303,7 @@ The blackboard was full of equations.
 For the first time I was really touching world-class mathematics.
 
 \
-One of the courses was Gilbert Strang’s.
+One of the courses was Gilbert Strang[^hai-strang]’s.
 
 The first time I saw him I was nervous.
 
@@ -382,3 +382,5 @@ Once the boat leaves shore.
 You are no longer the person you were.
 
 [^hai-chen]: Chen Zhili (陈至立), Minister of Education at the time.
+
+[^hai-strang]: Gilbert Strang, American mathematician, MIT professor, author of *Linear Algebra and Its Applications*; his linear algebra course is widely known through MIT OpenCourseWare.
