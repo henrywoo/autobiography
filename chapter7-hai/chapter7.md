@@ -100,6 +100,8 @@ Go in and take the test.
 Get the score.
 
 \
+Before the exam they gave me half the money.
+
 When I took the tests I was actually calm.
 
 The screen glowed; I worked through the questions.
@@ -110,15 +112,11 @@ None of it was very hard for me.
 
 When time was up, the system submitted automatically.
 
+The score came out right away after the test.
+
 When I walked out, someone was usually waiting.
 
-They would ask:
-
-“How did it go?”
-
-I’d say, no problem.
-
-Then they gave me the money.
+If the score was what they wanted, they gave me the other half.
 
 That money was just enough for my living expenses and application fees.
 
@@ -169,7 +167,7 @@ Ministry of Education, Public Security—I had contacts.
 
 He looked at me and said:
 
-“I’m not even afraid of Chen Zhili.”
+“I’m not even afraid of Chen Zhili[^hai-chen]."
 
 I had to bow my head and write the self-criticism.
 
@@ -382,3 +380,5 @@ Into the boat that carried my youth across the sea.
 Once the boat leaves shore.
 
 You are no longer the person you were.
+
+[^hai-chen]: Chen Zhili (陈至立), Minister of Education at the time.
