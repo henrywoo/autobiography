@@ -116,7 +116,7 @@ At first I wasn’t sure he was telling the truth.
 
 So I opened the browser and searched the name.
 
-Google didn’t index many pages then; search wasn’t as easy as now.
+谷歌 didn’t index many pages then; search wasn’t as easy as now.
 
 I went through several pages before I understood.
 

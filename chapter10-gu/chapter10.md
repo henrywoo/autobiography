@@ -16,7 +16,7 @@ Later I went to the United States.
 
 Silicon Valley.
 
-When I first arrived I worked in Google’s ads division.
+When I first arrived I worked in 谷歌’s ads division.
 
 Work by day.
 
@@ -116,7 +116,7 @@ But it hadn’t yet become the center of the whole industry
 
 the way it did later.
 
-The company sent me to Google for training.
+The company sent me to 谷歌 for training.
 
 A full week.
 
