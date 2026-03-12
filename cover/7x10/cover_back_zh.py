@@ -21,17 +21,16 @@ scale_y = HEIGHT_IN / 10.0
 TITLE = "云层之上"
 SUBTITLE = "从大山泉水到硅谷 AI 的生命行路"
 DESC_TEXT = (
-    "一位顶级机器学习专家横跨三十年的自传体随笔：在算法与代码的冰冷逻辑中，\n"
-    "寻找作为「有情众生」的温暖归宿。\n"
+    "一位顶级机器学习专家的自传体随笔：在算法与代码的冰冷逻辑中，"
+    "寻找作为\n「有情众生」的温暖归宿。\n\n"
     "本书记录了作者从四川深山「羊咪咪」泉水边出发，历经北京大学生合唱团放歌、\n"
-    "新加坡与 MIT 求学，到华尔街对冲基金与硅谷技术核心的非凡历程。\n"
+    "新加坡与 MIT 求学，到华尔街对冲基金与硅谷技术核心的非凡历程。\n\n"
     "全书以 12 个意象（山、路、门、火、歌、旗、海、网、街、谷、云、无）\n"
-    "串联从「状元」学子到总裁办工程师、再到自动驾驶与大模型专家的生涯。\n"
+    "串联从「状元」学子到总裁办工程师、再到华尔街交易员，谷歌优步科技精英，\n与人工智能专家的生涯。\n\n"
     "在书中，你将看到与丁磊在苍蝇馆子吃面、见证优步自动驾驶兴衰、\n"
-    "站在甲骨文技术潮头思考 AI 是否「为时代挖坑」。\n"
+    "站在甲骨文技术潮头思考开发AI是否在「为时代挖坑」。\n\n"
     "这不只是一本关于技术成功的书，更是关于「选择」与「无常」的深刻对话——\n"
-    "当机器接管逻辑与生产力时，生命的意义，或许在于关掉显示器，\n"
-    "去给病榻上的母亲剥一个橘子。"
+    "当机器接管逻辑与生产力时，如何审视生命的意义。"
 )
 FEATURES_HEADER = "核心看点"
 FEATURES_CONTENT = (
@@ -47,7 +46,7 @@ AUDIENCE_CONTENT = (
 )
 AUTHOR = "玄心  著"
 
-COLOR_TITLE = "#222222"
+COLOR_TITLE = "#000000"
 COLOR_SUBTITLE = "#555555"
 COLOR_BODY = "#333333"
 COLOR_AUTHOR = "#444444"
@@ -128,7 +127,7 @@ def generate_cover():
     ax.imshow(img, extent=[0, width, 0, height], aspect="auto", zorder=0, alpha=0.5)
 
     cx = width / 2.0
-    body_fontsize = int(9 * scale_y)
+    body_fontsize = int(9.5 * scale_y)
     line_height = body_fontsize * 1.4 / 72.0
     # 与 cover_back.py 一致：正文区宽度 70%，居中
     text_width = width * 0.70
@@ -146,7 +145,7 @@ def generate_cover():
 
     # 1) 书名（与 cover_back 同：title_y = 0.82*height）
     title_y = 0.82 * height
-    _text(ax, cx, title_y, TITLE, serif_path, int(14 * scale_y), COLOR_TITLE, weight="bold", zorder=21)
+    _text(ax, cx, title_y, TITLE, serif_path, int(28 * scale_y), COLOR_TITLE, weight="bold", zorder=21)
     # 2) 副标题（subtitle_y = 0.78*height）
     subtitle_y = 0.78 * height
     _text(ax, cx, subtitle_y, SUBTITLE, sans_path, int(12 * scale_y), COLOR_SUBTITLE, zorder=21)
@@ -157,9 +156,9 @@ def generate_cover():
     box_x = (width - box_width) / 2
     corner_radius = 0.15
 
-    # 3) 简介框（略高一点）
+    # 3) 简介框（高度按内容+内边距，不再额外放大）
     desc_lines = DESC_TEXT.count("\n") + 1
-    desc_box_height = (desc_lines * body_fontsize * 1.4 / 72 + box_padding * 2) * 1.4
+    desc_box_height = desc_lines * body_fontsize * 1.4 / 72 + box_padding * 2
     desc_box_y = 0.75 * height - desc_box_height
     desc_box = patches.FancyBboxPatch(
         (box_x, desc_box_y), box_width, desc_box_height,
@@ -209,8 +208,8 @@ def generate_cover():
     _body_text(combined_text_x, y_pos, AUDIENCE_CONTENT, linespacing=1.4)
 
     # 5) 作者（靠下）
-    author_y = 0.55
-    _text(ax, cx, author_y, AUTHOR, sans_path, int(10 * scale_y), COLOR_AUTHOR, zorder=21)
+    #author_y = 0.55
+    #_text(ax, cx, author_y, AUTHOR, sans_path, int(10 * scale_y), COLOR_AUTHOR, zorder=21)
 
     for ext in ["png", "pdf"]:
         out = script_dir / f"cover_back_zh.{ext}"
