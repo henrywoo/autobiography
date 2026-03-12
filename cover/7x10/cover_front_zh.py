@@ -24,9 +24,11 @@ COLOR_TITLE = "#000000"
 COLOR_SUBTITLE = "#111111"
 COLOR_AUTHOR = "#222222"
 
-# 副标题二选一
-SUBTITLE = "一个程序员的山路"
-# SUBTITLE = "从山村到硅谷的路"
+# 副标题（可换）
+SUBTITLE = "从泥土到云端的修行"
+# SUBTITLE = "从泥土到云端的行路"
+# SUBTITLE = "一条通向云层的山路"
+# SUBTITLE = "山、路、与云"
 
 # 中文字体：用路径避免乱码（FontProperties(fname=...)）
 def _get_cjk_fontpaths():
