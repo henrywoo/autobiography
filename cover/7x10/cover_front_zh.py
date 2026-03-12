@@ -33,7 +33,7 @@ SUBTITLE = "从泥土到云端的修行"
 # 可选：英文书名（None 则不显示）
 SUBTITLE_EN = "Above the Clouds"
 # 可选：体裁说明（None 则不显示）
-GENRE_LINE = "自传体纪实散文"
+GENRE_LINE = "关于成长与时代的\n自传体纪实散文"
 
 # 中文字体：用路径避免乱码（FontProperties(fname=...)）
 def _get_cjk_fontpaths():
@@ -162,8 +162,8 @@ def generate_cover():
 
     cx = WIDTH_IN / 2.0
 
-    # 标题区：距顶部约 28%
-    title_y = HEIGHT_IN - SAFE_IN - 0.14 * (HEIGHT_IN - 2 * SAFE_IN)
+    # 标题区：略下移，与人物/山顶视觉更融合，有「站在云上」感
+    title_y = HEIGHT_IN - SAFE_IN - 0.19 * (HEIGHT_IN - 2 * SAFE_IN)
     title_fontsize = 64
     # 字距缩小使四字不超出页面：(fontsize+tracking)*3/72 约 ≤ 7-2*0.6 ≈ 5.8 inch
     tracking_pt = 20
@@ -185,7 +185,7 @@ def generate_cover():
     if SUBTITLE_EN:
         en_fontsize = 16
         ax.text(cx, next_y, SUBTITLE_EN, fontsize=en_fontsize, fontname="DejaVu Sans",
-                color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
+                fontstyle="italic", color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
         next_y = next_y - en_fontsize / 72.0 - 20.0 / DPI
     else:
         next_y = next_y - 20.0 / DPI
@@ -198,7 +198,7 @@ def generate_cover():
     # 体裁说明（可选，封面底部小字）
     if GENRE_LINE:
         genre_y = SAFE_IN + 0.35
-        genre_fontsize = 11
+        genre_fontsize = 13
         if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
             prop_genre = fm.FontProperties(fname=str(sans_path), size=genre_fontsize)
             ax.text(cx, genre_y, GENRE_LINE, fontproperties=prop_genre, color=COLOR_SUBTITLE,
