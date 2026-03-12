@@ -156,7 +156,7 @@ def generate_cover():
     cx = WIDTH_IN / 2.0
 
     # 标题区：距顶部约 28%
-    title_y = HEIGHT_IN - SAFE_IN - 0.28 * (HEIGHT_IN - 2 * SAFE_IN)
+    title_y = HEIGHT_IN - SAFE_IN - 0.14 * (HEIGHT_IN - 2 * SAFE_IN)
     title_fontsize = 64
     # 字距缩小使四字不超出页面：(fontsize+tracking)*3/72 约 ≤ 7-2*0.6 ≈ 5.8 inch
     tracking_pt = 20
@@ -173,9 +173,9 @@ def generate_cover():
                 color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
 
     # 作者：紧挨副标题「一个程序员的山路」之下
-    subtitle_fontsize = 20
-    author_y = subtitle_y - subtitle_fontsize / 72.0 - 28.0 / DPI - 1200.0 / DPI
-    draw_text_tracked(ax, cx, author_y, "玄心 著", 28, sans_path, weight="normal",
+    subtitle_fontsize = 18
+    author_y = subtitle_y - subtitle_fontsize / 72.0 - 28.0 / DPI - 1800.0 / DPI
+    draw_text_tracked(ax, cx, author_y, "玄心 著", 24, sans_path, weight="normal",
                       color=COLOR_AUTHOR, tracking_pt=0, zorder=2)
 
     for ext in ["png", "pdf"]:
