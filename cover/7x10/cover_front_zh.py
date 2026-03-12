@@ -21,7 +21,8 @@ SAFE_IN = 0.6  # 安全边距
 
 # 颜色 (出版级，非纯黑)
 COLOR_TITLE = "#000000"
-COLOR_SUBTITLE = "#111111"
+COLOR_SUBTITLE1 = "#111111"
+COLOR_SUBTITLE2 = "#fefefe"
 COLOR_AUTHOR = "#222222"
 
 # 副标题（可换）
@@ -158,7 +159,7 @@ def generate_cover():
     # 背景图：调低 alpha 让标题更突出
     img = mpimg.imread(str(bkg_path))
     img = dim_image_lower(img, frac_lower=0.35, brightness_factor=0.95, contrast_factor=0.9)
-    ax.imshow(img, extent=[0, WIDTH_IN, 0, HEIGHT_IN], aspect="auto", alpha=0.5, zorder=0)
+    ax.imshow(img, extent=[0, WIDTH_IN, 0, HEIGHT_IN], aspect="auto", alpha=0.75, zorder=0)
 
     cx = WIDTH_IN / 2.0
 
@@ -174,18 +175,18 @@ def generate_cover():
     subtitle_fontsize = 24
     if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
         prop = fm.FontProperties(fname=str(sans_path), size=subtitle_fontsize)
-        ax.text(cx, subtitle_y, SUBTITLE, fontproperties=prop, color=COLOR_SUBTITLE,
+        ax.text(cx, subtitle_y, SUBTITLE, fontproperties=prop, color=COLOR_SUBTITLE1,
                 ha="center", va="center", zorder=2)
     else:
         ax.text(cx, subtitle_y, SUBTITLE, fontsize=subtitle_fontsize, fontname=str(sans_path), weight="normal",
-                color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
+                color=COLOR_SUBTITLE1, ha="center", va="center", zorder=2)
 
     # 英文书名（可选）
     next_y = subtitle_y - subtitle_fontsize / 72.0 - 14.0 / DPI
     if SUBTITLE_EN:
         en_fontsize = 16
         ax.text(cx, next_y, SUBTITLE_EN, fontsize=en_fontsize, fontname="DejaVu Sans",
-                fontstyle="italic", color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
+                fontstyle="italic", color=COLOR_SUBTITLE1, ha="center", va="center", zorder=2)
         next_y = next_y - en_fontsize / 72.0 - 20.0 / DPI
     else:
         next_y = next_y - 20.0 / DPI
@@ -201,11 +202,11 @@ def generate_cover():
         genre_fontsize = 13
         if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
             prop_genre = fm.FontProperties(fname=str(sans_path), size=genre_fontsize)
-            ax.text(cx, genre_y, GENRE_LINE, fontproperties=prop_genre, color=COLOR_SUBTITLE,
+            ax.text(cx, genre_y, GENRE_LINE, fontproperties=prop_genre, color=COLOR_SUBTITLE2,
                     ha="center", va="center", zorder=2)
         else:
             ax.text(cx, genre_y, GENRE_LINE, fontsize=genre_fontsize, fontname=str(sans_path),
-                    color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
+                    color=COLOR_SUBTITLE2, ha="center", va="center", zorder=2)
 
     for ext in ["png", "pdf"]:
         out = script_dir / f"cover_front_zh.{ext}"
@@ -217,3 +218,7 @@ def generate_cover():
 
 if __name__ == "__main__":
     generate_cover()
+
+
+# sassy
+
