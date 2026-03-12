@@ -35,7 +35,7 @@ DESC_TEXT = (
 FEATURES_HEADER = "核心看点"
 FEATURES_CONTENT = (
     "• 从山村到硅谷的跨度，中国第一代互联网人的成长与选择\n"
-    "• 与丁磊、张勇、Gilbert Strang 等人物互动的真实细节\n"
+    "• 与丁磊、张勇、Gilbert Strang等人物互动的真实细节\n"
     "• 用诗意与哲思解读技术，探讨人工智能时代下人的价值\n"
     "• 寒门升学、异国求职与亲情觉醒的共鸣"
 )
