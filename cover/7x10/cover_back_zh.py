@@ -21,10 +21,17 @@ scale_y = HEIGHT_IN / 10.0
 TITLE = "云层之上"
 SUBTITLE = "从大山泉水到硅谷 AI 的生命行路"
 DESC_TEXT = (
-    "本书从四川深山的泉水边出发，历经北京大学生合唱团、新加坡与 MIT 的求学，"
-    "到华尔街与硅谷——网易、优步、谷歌、甲骨文。\n"
-    "十二个意象（山、路、门、火、歌、旗、海、网、街、谷、云、无）串联三十年；"
-    "在算法与代码之外，追问生命的意义。"
+    "一位顶级机器学习专家横跨三十年的自传体随笔：在算法与代码的冰冷逻辑中，\n"
+    "寻找作为「有情众生」的温暖归宿。\n"
+    "本书记录了作者从四川深山「羊咪咪」泉水边出发，历经北京大学生合唱团放歌、\n"
+    "新加坡与 MIT 求学，到华尔街对冲基金与硅谷技术核心的非凡历程。\n"
+    "全书以 12 个意象（山、路、门、火、歌、旗、海、网、街、谷、云、无）\n"
+    "串联从「状元」学子到总裁办工程师、再到自动驾驶与大模型专家的生涯。\n"
+    "在书中，你将看到与丁磊在苍蝇馆子吃面、见证优步自动驾驶兴衰、\n"
+    "站在甲骨文技术潮头思考 AI 是否「为时代挖坑」。\n"
+    "这不只是一本关于技术成功的书，更是关于「选择」与「无常」的深刻对话——\n"
+    "当机器接管逻辑与生产力时，生命的意义，或许在于关掉显示器，\n"
+    "去给病榻上的母亲剥一个橘子。"
 )
 FEATURES_HEADER = "核心看点"
 FEATURES_CONTENT = (
@@ -35,7 +42,7 @@ FEATURES_CONTENT = (
 )
 AUDIENCE_HEADER = "适合读者"
 AUDIENCE_CONTENT = (
-    "对个人成长、技术人文与自传体随笔感兴趣的读者；"
+    "对个人成长、技术人文与自传体随笔感兴趣的读者；\n"
     "互联网与 AI 行业从业者；关注教育与阶层流动的读者。"
 )
 AUTHOR = "玄心  著"
@@ -164,12 +171,13 @@ def generate_cover():
     desc_text_y = desc_box_y + desc_box_height - box_padding
     _body_text(desc_text_x, desc_text_y, DESC_TEXT, linespacing=1.4)
 
-    # 4) 核心看点 + 适合读者 合并框
+    # 4) 核心看点 + 适合读者 合并框（紧接在简介框下方，避免重叠）
     combined_lines = (
         FEATURES_CONTENT.count("\n") + 1 + AUDIENCE_CONTENT.count("\n") + 1 + 6
     )
     combined_box_height = combined_lines * body_fontsize * 1.4 / 72 + box_padding * 2
-    combined_box_y = 0.50 * height - combined_box_height
+    gap_between_boxes = 0.12
+    combined_box_y = desc_box_y - gap_between_boxes - combined_box_height
     combined_box = patches.FancyBboxPatch(
         (box_x, combined_box_y), box_width, combined_box_height,
         boxstyle=f"round,pad=0.02,rounding_size={corner_radius}",

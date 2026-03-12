@@ -20,9 +20,9 @@ DPI = 300
 SAFE_IN = 0.6  # 安全边距
 
 # 颜色 (出版级，非纯黑)
-COLOR_TITLE = "#222222"
-COLOR_SUBTITLE = "#555555"
-COLOR_AUTHOR = "#444444"
+COLOR_TITLE = "#000000"
+COLOR_SUBTITLE = "#111111"
+COLOR_AUTHOR = "#222222"
 
 # 副标题二选一
 SUBTITLE = "一个程序员的山路"
@@ -91,19 +91,35 @@ def draw_text_tracked(ax, x, y, text, fontsize, font_path_or_name, weight="norma
         x_cur += step_in
 
 
-def dim_image_lower(img, frac_lower=0.35, brightness_factor=0.95, contrast_factor=0.9):
-    """对图像下部 (人物区) 做轻微压暗：亮度降约 5%，对比度降约 10%。"""
+def dim_image_lower(img, frac_lower=0.35, brightness_factor=0.95, contrast_factor=0.9, blend_frac=0.08):
+    """对图像下部 (人物区) 压暗，上缘渐变过渡；仅处理 RGB，保留 alpha。"""
     h = img.shape[0]
     y_cut = int(h * (1 - frac_lower))
     if img.dtype in (np.float32, np.float64):
         out = img.copy()
     else:
         out = img.astype(np.float64) / 255.0
+    # 只压暗 RGB，RGBA 时保留 alpha；灰度图压暗整幅
     mid = 0.5
-    block = out[y_cut:, :].copy()
-    block = (block - mid) * contrast_factor + mid
-    block = np.clip(block * brightness_factor, 0, 1)
-    out[y_cut:, :] = block
+    n_lower = h - y_cut
+    blend_rows = max(1, int(n_lower * blend_frac))  # 上缘渐变行数
+    if out.ndim == 2:
+        for row in range(y_cut, h):
+            t = (row - y_cut) / blend_rows if row - y_cut < blend_rows else 1.0
+            blend_orig = 1.0 - t
+            block = out[row, :].copy()
+            dimmed = (block - mid) * contrast_factor + mid
+            dimmed = np.clip(dimmed * brightness_factor, 0, 1)
+            out[row, :] = blend_orig * block + (1 - blend_orig) * dimmed
+    else:
+        rgb_end = 3 if out.shape[2] >= 3 else out.shape[2]
+        for row in range(y_cut, h):
+            t = (row - y_cut) / blend_rows if row - y_cut < blend_rows else 1.0
+            blend_orig = 1.0 - t
+            block = out[row, :, :rgb_end].copy()
+            dimmed = (block - mid) * contrast_factor + mid
+            dimmed = np.clip(dimmed * brightness_factor, 0, 1)
+            out[row, :, :rgb_end] = blend_orig * block + (1 - blend_orig) * dimmed
     if img.dtype not in (np.float32, np.float64):
         out = (np.clip(out, 0, 1) * 255).astype(np.uint8)
     return out
@@ -132,33 +148,35 @@ def generate_cover():
     ax.set_xlim(0, WIDTH_IN)
     ax.set_ylim(0, HEIGHT_IN)
 
-    # 背景图 (铺满)
+    # 背景图：调低 alpha 让标题更突出
     img = mpimg.imread(str(bkg_path))
-    # 可选：人物区压暗，让标题更突出
     img = dim_image_lower(img, frac_lower=0.35, brightness_factor=0.95, contrast_factor=0.9)
-    ax.imshow(img, extent=[0, WIDTH_IN, 0, HEIGHT_IN], aspect="auto", zorder=0)
+    ax.imshow(img, extent=[0, WIDTH_IN, 0, HEIGHT_IN], aspect="auto", alpha=0.5, zorder=0)
 
     cx = WIDTH_IN / 2.0
 
     # 标题区：距顶部约 28%
     title_y = HEIGHT_IN - SAFE_IN - 0.28 * (HEIGHT_IN - 2 * SAFE_IN)
-    title_fontsize = 120
+    title_fontsize = 64
+    # 字距缩小使四字不超出页面：(fontsize+tracking)*3/72 约 ≤ 7-2*0.6 ≈ 5.8 inch
+    tracking_pt = 20
     draw_text_tracked(ax, cx, title_y, "云层之上", title_fontsize, serif_path, weight="bold",
-                     color=COLOR_TITLE, tracking_pt=140, zorder=2)
+                     color=COLOR_TITLE, tracking_pt=tracking_pt, zorder=2)
     # 副标题：标题下方约 40–50 px
     subtitle_y = title_y - title_fontsize / 72.0 - 50.0 / DPI
     if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
-        prop = fm.FontProperties(fname=str(sans_path), size=30)
+        prop = fm.FontProperties(fname=str(sans_path), size=24)
         ax.text(cx, subtitle_y, SUBTITLE, fontproperties=prop, color=COLOR_SUBTITLE,
                 ha="center", va="center", zorder=2)
     else:
         ax.text(cx, subtitle_y, SUBTITLE, fontsize=30, fontname=str(sans_path), weight="normal",
                 color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
 
-    # 作者：封面高度约 63% 处（从下往上）
-    author_y = HEIGHT_IN * 0.63
-    draw_text_tracked(ax, cx, author_y, "玄心 著", 38, sans_path, weight="normal",
-                      color=COLOR_AUTHOR, tracking_pt=80, zorder=2)
+    # 作者：紧挨副标题「一个程序员的山路」之下
+    subtitle_fontsize = 20
+    author_y = subtitle_y - subtitle_fontsize / 72.0 - 28.0 / DPI - 1200.0 / DPI
+    draw_text_tracked(ax, cx, author_y, "玄心 著", 28, sans_path, weight="normal",
+                      color=COLOR_AUTHOR, tracking_pt=0, zorder=2)
 
     for ext in ["png", "pdf"]:
         out = script_dir / f"cover_front_zh.{ext}"
