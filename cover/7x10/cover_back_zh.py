@@ -126,7 +126,7 @@ def generate_cover():
     ax.set_ylim(0, height)
 
     img = mpimg.imread(str(bkg_path))
-    ax.imshow(img, extent=[0, width, 0, height], aspect="auto", zorder=0, alpha=0.5)
+    ax.imshow(img, extent=[0, width, 0, height], aspect="auto", zorder=0, alpha=0.3)
 
     cx = width / 2.0
     body_fontsize = int(9.5 * scale_y)
