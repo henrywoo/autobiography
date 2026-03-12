@@ -30,6 +30,11 @@ SUBTITLE = "从泥土到云端的修行"
 # SUBTITLE = "一条通向云层的山路"
 # SUBTITLE = "山、路、与云"
 
+# 可选：英文书名（None 则不显示）
+SUBTITLE_EN = "Above the Clouds"
+# 可选：体裁说明（None 则不显示）
+GENRE_LINE = "自传体纪实散文"
+
 # 中文字体：用路径避免乱码（FontProperties(fname=...)）
 def _get_cjk_fontpaths():
     """返回 (serif_path, sans_path)。优先用 fname= 路径，matplotlib 能正确渲染中文。"""
@@ -164,21 +169,43 @@ def generate_cover():
     tracking_pt = 20
     draw_text_tracked(ax, cx, title_y, "云层之上", title_fontsize, serif_path, weight="bold",
                      color=COLOR_TITLE, tracking_pt=tracking_pt, zorder=2)
-    # 副标题：标题下方约 40–50 px
+    # 副标题
     subtitle_y = title_y - title_fontsize / 72.0 - 50.0 / DPI
+    subtitle_fontsize = 24
     if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
-        prop = fm.FontProperties(fname=str(sans_path), size=24)
+        prop = fm.FontProperties(fname=str(sans_path), size=subtitle_fontsize)
         ax.text(cx, subtitle_y, SUBTITLE, fontproperties=prop, color=COLOR_SUBTITLE,
                 ha="center", va="center", zorder=2)
     else:
-        ax.text(cx, subtitle_y, SUBTITLE, fontsize=30, fontname=str(sans_path), weight="normal",
+        ax.text(cx, subtitle_y, SUBTITLE, fontsize=subtitle_fontsize, fontname=str(sans_path), weight="normal",
                 color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
 
-    # 作者：紧挨副标题「一个程序员的山路」之下
-    subtitle_fontsize = 18
-    author_y = subtitle_y - subtitle_fontsize / 72.0 - 28.0 / DPI - 1800.0 / DPI
+    # 英文书名（可选）
+    next_y = subtitle_y - subtitle_fontsize / 72.0 - 124.0 / DPI
+    if SUBTITLE_EN:
+        en_fontsize = 16
+        ax.text(cx, next_y, SUBTITLE_EN, fontsize=en_fontsize, fontname="DejaVu Sans",
+                color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
+        next_y = next_y - en_fontsize / 72.0 - 20.0 / DPI
+    else:
+        next_y = next_y - 20.0 / DPI
+
+    # 作者
+    author_y = next_y - 150.0 / DPI
     draw_text_tracked(ax, cx, author_y, "玄心 著", 24, sans_path, weight="normal",
                       color=COLOR_AUTHOR, tracking_pt=0, zorder=2)
+
+    # 体裁说明（可选，封面底部小字）
+    if GENRE_LINE:
+        genre_y = SAFE_IN + 0.35
+        genre_fontsize = 11
+        if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
+            prop_genre = fm.FontProperties(fname=str(sans_path), size=genre_fontsize)
+            ax.text(cx, genre_y, GENRE_LINE, fontproperties=prop_genre, color=COLOR_SUBTITLE,
+                    ha="center", va="center", zorder=2)
+        else:
+            ax.text(cx, genre_y, GENRE_LINE, fontsize=genre_fontsize, fontname=str(sans_path),
+                    color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
 
     for ext in ["png", "pdf"]:
         out = script_dir / f"cover_front_zh.{ext}"
