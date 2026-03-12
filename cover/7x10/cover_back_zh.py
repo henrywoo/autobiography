@@ -36,7 +36,9 @@ FEATURES_HEADER = "核心看点"
 FEATURES_CONTENT = (
     "• 从山村到硅谷的跨度，中国第一代互联网人的成长与选择\n"
     "• 与丁磊、张勇、Gilbert Strang等人物互动的真实细节\n"
-    "• 用诗意与哲思解读技术，探讨人工智能时代下人的价值\n"
+    "• 北京大学生合唱团、国庆阅兵与海外求学的青春记忆\n"
+    "• 华尔街量化、硅谷无人车与AI时代的一线见证\n"
+    "• 用诗意与哲思解读技术，探讨人的价值与选择\n"
     "• 寒门升学、异国求职与亲情觉醒的共鸣"
 )
 AUDIENCE_HEADER = "适合读者"
@@ -170,12 +172,10 @@ def generate_cover():
     desc_text_y = desc_box_y + desc_box_height - box_padding
     _body_text(desc_text_x, desc_text_y, DESC_TEXT, linespacing=1.4)
 
-    # 4) 核心看点 + 适合读者 合并框（紧接在简介框下方，避免重叠）
-    combined_lines = (
-        FEATURES_CONTENT.count("\n") + 1 + AUDIENCE_CONTENT.count("\n") + 1 + 6
-    )
+    # 4) 核心看点框（仅此一块，与简介框拉开间距）
+    combined_lines = FEATURES_CONTENT.count("\n") + 1 + 3  # 正文行数 + 标题与间距
     combined_box_height = combined_lines * body_fontsize * 1.4 / 72 + box_padding * 2
-    gap_between_boxes = 0.12
+    gap_between_boxes = 0.24
     combined_box_y = desc_box_y - gap_between_boxes - combined_box_height
     combined_box = patches.FancyBboxPatch(
         (box_x, combined_box_y), box_width, combined_box_height,
@@ -200,12 +200,12 @@ def generate_cover():
     _body_text(combined_text_x, y_pos, FEATURES_CONTENT, linespacing=1.4)
     y_pos -= (FEATURES_CONTENT.count("\n") + 1) * line_height + line_height * 2
     # 适合读者 标题
-    if use_prop:
+    '''if use_prop:
         ax.text(combined_text_x, y_pos, AUDIENCE_HEADER, fontproperties=prop_bold, color=COLOR_BODY, ha="left", va="top", zorder=21)
     else:
         ax.text(combined_text_x, y_pos, AUDIENCE_HEADER, fontsize=body_fontsize, fontname=str(sans_path), weight="bold", color=COLOR_BODY, ha="left", va="top", zorder=21)
     y_pos -= line_height * 2
-    _body_text(combined_text_x, y_pos, AUDIENCE_CONTENT, linespacing=1.4)
+    _body_text(combined_text_x, y_pos, AUDIENCE_CONTENT, linespacing=1.4)'''
 
     # 5) 作者（靠下）
     #author_y = 0.55

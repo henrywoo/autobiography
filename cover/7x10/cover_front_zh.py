@@ -170,7 +170,7 @@ def generate_cover():
     draw_text_tracked(ax, cx, title_y, "云层之上", title_fontsize, serif_path, weight="bold",
                      color=COLOR_TITLE, tracking_pt=tracking_pt, zorder=2)
     # 副标题
-    subtitle_y = title_y - title_fontsize / 72.0 - 50.0 / DPI
+    subtitle_y = title_y - title_fontsize / 72.0 - 10.0 / DPI
     subtitle_fontsize = 24
     if isinstance(sans_path, (str, Path)) and Path(sans_path).exists():
         prop = fm.FontProperties(fname=str(sans_path), size=subtitle_fontsize)
@@ -181,7 +181,7 @@ def generate_cover():
                 color=COLOR_SUBTITLE, ha="center", va="center", zorder=2)
 
     # 英文书名（可选）
-    next_y = subtitle_y - subtitle_fontsize / 72.0 - 124.0 / DPI
+    next_y = subtitle_y - subtitle_fontsize / 72.0 - 14.0 / DPI
     if SUBTITLE_EN:
         en_fontsize = 16
         ax.text(cx, next_y, SUBTITLE_EN, fontsize=en_fontsize, fontname="DejaVu Sans",
@@ -191,7 +191,7 @@ def generate_cover():
         next_y = next_y - 20.0 / DPI
 
     # 作者
-    author_y = next_y - 150.0 / DPI
+    author_y = next_y - 100.0 / DPI
     draw_text_tracked(ax, cx, author_y, "玄心 著", 24, sans_path, weight="normal",
                       color=COLOR_AUTHOR, tracking_pt=0, zorder=2)
 
