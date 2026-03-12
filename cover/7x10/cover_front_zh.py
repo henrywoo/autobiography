@@ -193,7 +193,7 @@ def generate_cover():
 
     # 作者
     author_y = next_y - 100.0 / DPI
-    draw_text_tracked(ax, cx, author_y, "玄心 著", 24, sans_path, weight="normal",
+    draw_text_tracked(ax, cx, author_y, "玄心•著", 24, sans_path, weight="normal",
                       color=COLOR_AUTHOR, tracking_pt=0, zorder=2)
 
     # 体裁说明（可选，封面底部小字）
