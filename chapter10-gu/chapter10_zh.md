@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/gu.png){width=50%}
+![](img/gu.png){width=60%}
 
 
 ## 广告

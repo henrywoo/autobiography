@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/wang.png){width=50%}
+![](img/wang.png){width=60%}
 
 ## 天空
 

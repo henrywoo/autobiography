@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/qi.png){width=70%}
+![](img/qi.png){width=60%}
 
 
 ## 国庆
