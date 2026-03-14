@@ -22,7 +22,7 @@
 
 晚上上课。
 
-那几年我在修新加坡国立大学的金融工程学位。
+那几年我在修国大的金融工程[^gu-nus-mfe]。
 
 老师在新加坡。
 
@@ -111,7 +111,7 @@
 
 他说你先下去吧。
 
-等我们都下到楼下，
+等我们都冲到楼下，
 
 过了很久，
 
@@ -314,4 +314,6 @@ Joshua的球技不太好，
 刚好站在里面。
 
 [^gu-kushner]: Joshua Kushner（1985—），美国投资人、创业者，Kushner Companies 与 Thrive Capital 创始人，奥斯卡医疗（Oscar Health）联合创始人；其兄 Jared Kushner 为特朗普执政时期白宫高级顾问；曾与超模 Karlie Kloss 结婚。
+
+[^gu-nus-mfe]: 新加坡国立大学金融工程硕士（MFE）由风险管理研究所（RMI, Risk Management Institute）提供，需修满规定学分方可毕业。
 
