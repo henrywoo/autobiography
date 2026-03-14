@@ -83,12 +83,12 @@
 
 说又遇到Betty Liu了。
 
-给群友汇报下她今天的气色。
+给群友粉丝汇报下她今天的气色。
 
 \
 我见过很多美国名人来做访谈。
 
-总统候选人 Bernie Sanders[^jie-sanders] 来的时候，
+总统候选人Bernie Sanders[^jie-sanders] 来的时候，
 
 进不去门，
 
