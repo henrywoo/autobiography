@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/shan.png){width=60%}
+![](img/shan.png){.bottom-right width=60%}
 
 
 ## 泉水
