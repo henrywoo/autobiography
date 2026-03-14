@@ -28,6 +28,7 @@ COLOR_AUTHOR = "#222222"
 # 副标题（可换）
 SUBTITLE = "从泥土到云端的修行"
 SUBTITLE = "从大山泉水到硅谷AI的生命行路"
+SUBTITLE = "在智能之巅,望故乡的泉"
 # SUBTITLE = "从泥土到云端的行路"
 # SUBTITLE = "一条通向云层的山路"
 # SUBTITLE = "山、路、与云"
