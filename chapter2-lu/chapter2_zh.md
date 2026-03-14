@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/lu.png){width=60%}
+![](img/lu.png){width=50% alpha=0.5}
 
 
 ## 第一

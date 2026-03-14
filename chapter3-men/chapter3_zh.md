@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/men.png){width=60%}
+![](img/men.png){width=50% alpha=0.5}
 
 ## 落榜
 

@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/qi.png){width=70%}
+![](img/qi.png){width=50% alpha=0.5}
 
 
 ## National Day

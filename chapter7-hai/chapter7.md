@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/hai.png){width=50%}
+![](img/hai.png){width=50% alpha=0.5}
 
 
 ## Proxy Testing

@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/jie.png){width=60%}
+![](img/jie.png){width=50% alpha=0.5}
 
 
 ## 彭博

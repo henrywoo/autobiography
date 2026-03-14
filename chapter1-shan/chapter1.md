@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/shan.png){width=100%}
+![](img/shan.png){width=50% alpha=0.5}
 
 
 ## Spring

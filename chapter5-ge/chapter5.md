@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/ge.png){width=70%}
+![](img/ge.png){width=50% alpha=0.5}
 
 ## University
 

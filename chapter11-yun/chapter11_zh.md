@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/yun.png){width=60%}
+![](img/yun.png){width=50% alpha=0.5}
 
 
 ## 签字

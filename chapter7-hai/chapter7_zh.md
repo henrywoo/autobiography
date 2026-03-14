@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/hai.png){width=60%}
+![](img/hai.png){width=50% alpha=0.5}
 
 
 ## 家教

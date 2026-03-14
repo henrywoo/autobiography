@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/huo.png){width=50%}
+![](img/huo.png){width=50% alpha=0.5}
 
 
 

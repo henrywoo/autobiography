@@ -7,7 +7,7 @@
 
 **tp_image**
 
-![](img/wu.png){width=60%}
+![](img/wu.png){width=50% alpha=0.5}
 
 
 ## 存在
